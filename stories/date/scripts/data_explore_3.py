@@ -1,7 +1,7 @@
 import pandas as pd
 
-# df = pd.read_csv('stories/date/data/text_date_journals.csv')
-df = pd.read_csv('stories/date/data/text_date_full.csv')
+df = pd.read_csv('stories/date/data/text_date_journals.csv')
+# df = pd.read_csv('stories/date/data/text_date_full.csv')
 
 print(df.head())
 

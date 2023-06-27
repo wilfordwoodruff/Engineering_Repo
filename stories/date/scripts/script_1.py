@@ -3,7 +3,11 @@ import re
 from datetime import datetime
 from dateutil.parser import parse
 import os
+'''
+TODO: for journals Look at the HTML instead
 
+
+'''
 def parse_date(date_str):
     try:
         date_obj = datetime.strptime(date_str, '%B %d, %Y')
