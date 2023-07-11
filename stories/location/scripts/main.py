@@ -2,7 +2,7 @@ import pandas as pd
 from import_data import get_files
 from find_missing import find_missing_data
 from split_dataframe import split_dataframe
-from replace_nan import replace_nan_with_zero
+from replace_nan import replace_nan_with_geolocation
 from merge_dataframes import merge_dataframes
 
 # Load the data
@@ -41,8 +41,8 @@ missing_values_df, df_no_missing = split_dataframe(df)
 print(f'df_no_missing is None: {df_no_missing is None}')
 print(f'missing_values_df is None: {missing_values_df is None}')
 
-# Replace the NaN values with 0 values
-df_filled = replace_nan_with_zero(missing_values_df)
+# Replace the NaN values with geocoded values
+df_filled = replace_nan_with_geolocation(missing_values_df)
 
 # Reset the index of the dataframes
 df_no_missing.reset_index(drop=True, inplace=True)
