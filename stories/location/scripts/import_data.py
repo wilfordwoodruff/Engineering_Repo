@@ -13,21 +13,3 @@ def get_files(user, repo, path):
 
     # This will return an array of all the matching files with details
     return csv_files
-
-user = "wilfordwoodruff"
-repo = "Main-Data"
-path = "data/raw"
-csv_files = get_files(user, repo, path)
-
-# Sort files by date in the filename, get the latest
-csv_files.sort(key=lambda x: x['name'], reverse=True)
-latest_file = csv_files[0]
-
-# Construct the raw GitHub URL
-raw_url = f"https://raw.githubusercontent.com/{user}/{repo}/main/{latest_file['path']}"
-
-# Read the latest CSV file
-df = pd.read_csv(raw_url)
-
-# Now df holds the content of the latest CSV file
-print(df.head())

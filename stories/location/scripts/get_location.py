@@ -1,15 +1,11 @@
-from geopy.geocoders import Nominatim
-from geopy.exc import GeocoderTimedOut
-from geopy.extra.rate_limiter import RateLimiter
+import pandas as pd
 
-geolocator = Nominatim(user_agent="zeonytang@gmail.com")
-geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1) # at least 1 second delay between requests
-
-def get_location_by_name(name):
-    try:
-        location = geocode(name)
-        if location is not None:
-            return location.latitude, location.longitude
-    except GeocoderTimedOut:
-        return get_location_by_name(name)
-    return None, None
+def get_location_from_csv(df, csv_files):
+    for csv_file in csv_files:
+        df_csv = pd.read_csv(csv_file)
+        for i, row in df.iterrows():
+            if row['Name'] in df_csv['city'].values:
+                df.at[i, 'Latitude'] = df_csv[df_csv['city']==row['Name']]['lat'].values[0]
+                df.at[i, 'Longitude'] = df_csv[df_csv['city']==row['Name']]['lng'].values[0]
+    return df
+    

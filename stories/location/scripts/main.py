@@ -23,30 +23,14 @@ df = pd.read_csv(raw_url)
 
 # Extract the 'name', 'latitude', and 'longitude' columns
 df = df[['Name', 'Latitude', 'Longitude']]
-df['Name'] = df['Name'].str.split('|')
-df = df.explode('Name')
 
-# After reading the CSV file and exploding the 'Name' column
-print(f"All 'Latitude' values are NaN: {df['Latitude'].isna().all()}")
-print(f"All 'Longitude' values are NaN: {df['Longitude'].isna().all()}")
-
-
+# Parse the 'Name' as a list of strings
+df['Name'] = df['Name'].str.strip("[]").str.replace("'","").str.split(', ')
 # Find the rows where 'latitude' or 'longitude' are missing
-missing_values = find_missing_data(df)
-
-# Separate the dataframe into two; the one with the missing data and the other one with the full dataframe excluding the missing data
 missing_values_df, df_no_missing = split_dataframe(df)
-
-# Check if the dataframes are None
-print(f'df_no_missing is None: {df_no_missing is None}')
-print(f'missing_values_df is None: {missing_values_df is None}')
 
 # Replace the NaN values with geocoded values
 df_filled = replace_nan_with_geolocation(missing_values_df)
-
-# Reset the index of the dataframes
-df_no_missing.reset_index(drop=True, inplace=True)
-df_filled.reset_index(drop=True, inplace=True)
 
 # Merge dataframes
 df_complete = merge_dataframes(df_no_missing, df_filled)
@@ -55,6 +39,4 @@ df_complete = merge_dataframes(df_no_missing, df_filled)
 df_complete.sort_values('Name', inplace=True)
 
 # Save the DataFrame to a new CSV file
-df_complete.to_csv('new_file.csv', index=False)
-
-
+df_complete.to_csv('stories/location/data/artifact/new_file.csv', index=False)
