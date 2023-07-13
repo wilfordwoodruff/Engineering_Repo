@@ -39,10 +39,10 @@ papers['date_new'] = papers['date'].dt.strftime('%m/%d/%Y')
 current_dir = os.getcwd()
 
 # Build the path to the file
-file_path = os.path.join(current_dir, '../../stories/date/data/main_dates_jour.csv')
+file_path = '../Engineering_Repo/stories/date/data/main_dates_jour.csv'
 
-# Create the directory if it doesn't exist
-os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
-# Write the data to a CSV file
-papers.to_csv(file_path, index=False)
+try:
+    papers.to_csv(file_path, index=False)
+except Exception as e:
+    print(f"Could not write file to {file_path}. Error: {e}")
