@@ -15,6 +15,7 @@ This directory `stories/date` contains scripts for processing and testing data f
     * `TestAuto.py` - Tests for `autobiographies.py`.
     * `TestDayBooks.py` - Tests for `daybooks.py`.
     * `TestJournal.py` - Tests for `journals.py`.
+    * **test/data**: This sub-folder within the `test` directory contains the output data from the tests, including any rows with NaN values from the date and date_new columns.
 
 * **data**: This folder contains the processed data output from the scripts in the `scripts` directory, with the information now represented in a date format.
 
