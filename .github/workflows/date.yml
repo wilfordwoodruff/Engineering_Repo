@@ -41,16 +41,15 @@ jobs:
         mkdir -p data/artifact/date
         cp stories/date/data/*.csv data/artifact/date
       
-    - name: Commit and push CSV files to current repository
+    - name: Setup Git and push
+      env:
+        GH_TOKEN: ${{ secrets.TYLER_PAT }} 
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-        git add data/artifact/date/*.csv
+        git add .
         git commit -m "Add data files"
-        git push origin HEAD:main
-      env:
-        GH_TOKEN: ${{ secrets.TYLER_PAT }}
+        git push https://${GH_TOKEN}@github.com/wilfordwoodruff/Engineering_Repo.git HEAD:main
 
 
   copy_to_main_data:
