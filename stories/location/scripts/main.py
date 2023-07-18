@@ -40,7 +40,7 @@ df_complete = merge_dataframes(df_no_missing, df_filled)
 df_complete.sort_values('Name', inplace=True)
 
 # Save the DataFrame to a new CSV file
-# df_complete.to_csv('stories/location/data/artifact/new_file.csv', index=False)
+df_complete.to_csv('stories/location/data/artifact/new_file.csv', index=False)
 
 # Counting how many sad faces are there after finding the location coordinates that match both the csv files
 sad_face_count = df_complete[(df_complete['Latitude'] == ":(") | (df_complete['Longitude'] == ":(")].shape[0]
