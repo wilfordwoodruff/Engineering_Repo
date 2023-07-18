@@ -45,11 +45,13 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         git add data/artifact/date/*.csv
         git commit -m "Add data files"
         git push origin HEAD:main
       env:
         GH_TOKEN: ${{ secrets.TYLER_PAT }}
+
 
   copy_to_main_data:
     needs: build
