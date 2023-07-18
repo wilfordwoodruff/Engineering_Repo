@@ -35,3 +35,40 @@ jobs:
     - name: Run Python tests
       run: |
         python -m unittest discover -s stories/date/test -p '*Test.py'
+      
+    - name: Copy CSV files
+      run: |
+        mkdir -p data/artifact/date
+        cp stories/date/data/*.csv data/artifact/date
+      
+    - name: Commit and push CSV files to current repository
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/artifact/date/*.csv
+        git commit -m "Add data files"
+        git push
+
+  copy_to_main_data:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout destination repository
+      uses: actions/checkout@v2
+      with:
+        repository: wilfordwoodruff/Main-Data
+        token: ${{ secrets.TYLER_PAT }}
+        path: Main-Data
+
+    - name: Copy CSV files to Main-Data repository
+      run: |
+        cp data/artifact/date/*.csv Main-Data/data/artifact/date
+
+    - name: Commit and push CSV files to Main-Data repository
+      run: |
+        cd Main-Data
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/artifact/date/*.csv
+        git commit -m "Add data files"
+        git push
