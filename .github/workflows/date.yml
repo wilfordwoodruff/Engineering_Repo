@@ -51,7 +51,6 @@ jobs:
         git commit -m "Add data files"
         git push https://${GH_TOKEN}@github.com/wilfordwoodruff/Engineering_Repo.git HEAD:main
 
-
   copy_to_main_data:
     needs: build
     runs-on: ubuntu-latest
@@ -65,13 +64,16 @@ jobs:
 
     - name: Copy CSV files to Main-Data repository
       run: |
+        mkdir -p Main-Data/data/artifact/date
         cp data/artifact/date/*.csv Main-Data/data/artifact/date
 
     - name: Commit and push CSV files to Main-Data repository
       run: |
         cd Main-Data
+        mkdir -p data/artifact/date
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/artifact/date/*.csv
         git commit -m "Add data files"
         git push
+
