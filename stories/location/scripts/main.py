@@ -26,6 +26,7 @@ df = df[['Name', 'Latitude', 'Longitude']]
 
 # Parse the 'Name' as a list of strings
 df['Name'] = df['Name'].str.strip("[]").str.replace("'","").str.split(', ')
+
 # Find the rows where 'latitude' or 'longitude' are missing
 missing_values_df, df_no_missing = split_dataframe(df)
 
@@ -39,4 +40,4 @@ df_complete = merge_dataframes(df_no_missing, df_filled)
 df_complete.sort_values('Name', inplace=True)
 
 # Save the DataFrame to a new CSV file
-df_complete.to_csv('stories/location/data/artifact/new_file.csv', index=False)
+df_complete.to_csv('stories/location/data/artifact/new_file3.csv', index=False)
