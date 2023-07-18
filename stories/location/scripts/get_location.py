@@ -8,4 +8,5 @@ def get_location_from_csv(df, csv_files):
                 df.at[i, 'Latitude'] = df_csv[df_csv['city']==row['Name']]['lat'].values[0]
                 df.at[i, 'Longitude'] = df_csv[df_csv['city']==row['Name']]['lng'].values[0]
     return df
-    
+
+
