@@ -5,6 +5,10 @@ def replace_nan_with_geolocation(df):
     gb_df = pd.read_csv('stories/location/data/lookup/gb.csv')
     
     for index, row in df.iterrows():
+        # Assign ":(" to latitude and longitude before trying to find matches
+        df.at[index, 'Latitude'] = ":("
+        df.at[index, 'Longitude'] = ":("
+        
         # 'Name' is already a list of locations
         locations = [name.strip() for name in row['Name']]
         
@@ -45,7 +49,4 @@ def replace_nan_with_geolocation(df):
                     break  # If match is found, break the loop
                 except:
                     continue  # If no match is found, continue to the next location
-        else:  # If no matches found after checking all locations
-            df.at[index, 'Latitude'] = ":("
-            df.at[index, 'Longitude'] = ":("
     return df

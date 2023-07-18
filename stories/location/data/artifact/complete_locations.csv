@@ -1,0 +1,1233 @@
+Name,Latitude,Longitude
+"['Aarhus', 'Denmark']",56.1572,10.2107
+"['Aberdeen', 'Brown County', 'South Dakota']",45.4649,-98.4686
+"['Acworth', 'Sullivan County', 'New Hampshire']",34.0566,-84.6716
+"['Adams', 'Jefferson County', 'New York']",40.6943,-73.9249
+"['Adelaide', 'South Australia', 'Australia']",22.4995,-81.1359
+"['Akron', 'Summit County', 'Ohio']",41.0798,-81.5219
+"['Alamosa', 'Conejos County', 'Colorado']",-22.8378,-51.9728
+"['Alamosa River', 'Colorado']",-22.8378,-51.9728
+"['Albany', 'Albany County', 'New York']",40.6943,-73.9249
+"['Albany', 'Delaware and Randolph Counties', 'Indiana']",40.622,-79.1552
+"['Albion', 'Orleans County', 'New York']",40.6943,-73.9249
+"['Albuquerque', 'Bernalillo County', 'New Mexico Territory']",35.1054,-106.6465
+"['Alexandria', 'Egypt']",31.1975,29.8925
+"['All Souls Church', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Allentown', 'Monmouth County', 'New Jersey']",40.5961,-75.4756
+"['Alliance', 'Stark County', 'Ohio']",40.9107,-81.1189
+"['Alpine', 'Utah County', 'Utah']",40.4629,-111.7724
+"['Alton', 'Madison County', 'Illinois']",38.9037,-90.152
+"['Altrincham', 'Cheshire', 'England']",41.5113,-72.9036
+"['Alvarado', 'Alameda County', 'California']",38.2969,-76.4949
+"['American Fork', 'Utah County', 'Utah']",40.3783,-111.7953
+"['American Fork', 'Utah County', 'Utah Territory']",40.3783,-111.7953
+"['American River', 'California']",38.2969,-76.4949
+"['Amity', 'Knox County', 'Ohio']",40.2905,-75.7477
+"['Amsterdam', 'Montgomery County', 'New York']",40.6943,-73.9249
+"['Amsterdam', 'North Holland', 'Netherlands']",52.3728,4.8936
+"['Andover', 'Essex County', 'Massachusetts']",42.6466,-71.1651
+"['Ann Arbor', 'Washtenaw County', 'Michigan']",42.2759,-83.731
+"['Ann Arbor', 'Washtenaw County', 'Michigan Territory']",42.2759,-83.731
+"['Anna', 'Union County', 'Illinois']",33.3472,-96.5508
+"['Annapolis', 'Anne Arundel County', 'Maryland']",38.9706,-76.5047
+"['Antonito', 'Conejos County', 'Colorado']",-22.8378,-51.9728
+"['Antwerp', 'Belgium']",51.2178,4.4003
+"['Apia', 'Samoa']",-13.8333,-171.75
+"['Arch Street', 'Philadelphia', 'Philadelphia County', 'Pennsylvania']",40.0077,-75.1339
+"['Arkansas Valley', 'Colorado']",-22.8378,-51.9728
+"['Arlington Hotel', 'Washington', 'D.C.', 'United States']",38.9047,-77.0163
+"['Ashtabula', 'Ashtabula County', 'Ohio']",41.8805,-80.7984
+"['Aspen', 'Pitkin County', 'Colorado']",-22.8378,-51.9728
+"['Assembly Hall', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Atchison', 'Atchison County', 'Kansas Territory']",39.5625,-95.1367
+"['Auburn', 'Cumberland County', 'Maine']",44.0851,-70.2492
+"['Auburn Hills', 'Oakland County', 'Michigan']",42.6735,-83.2448
+"['Auckland', 'New Zealand']",-36.8406,174.74
+"['Augusta', 'Richmond County', 'Georgia']",33.3645,-82.0708
+"['Aurora', 'Kendall County', 'Illinois']",41.7638,-88.2902
+"['Austin', 'Travis County', 'Texas']",30.3005,-97.7522
+['Australia'],22.4995,-81.1359
+"['Avalon', 'Los Angeles County', 'California']",38.2969,-76.4949
+"['Avon', 'Hartford County', 'Connecticut']",41.7907,-72.8538
+"['Avon', 'Livingston County', 'New York']",40.6943,-73.9249
+['Babylon'],40.6925,-73.3586
+"['Baltimore', 'Baltimore County', 'Maryland']",39.3051,-76.6144
+"['Banff', 'Northwest Territories', 'Canada']",57.667,-2.524
+"['Bangor', 'Penobscot County', 'Maine']",44.8323,-68.7906
+"['Batavia', 'Genesee County', 'New York']",40.6943,-73.9249
+"['Bath', 'Sagadahoc County', 'Maine']",43.9346,-69.8346
+"['Battle Creek', 'Calhoun County', 'Michigan']",42.2985,-85.2296
+"['Battle Creek', 'Utah County', 'Utah Territory']",42.2985,-85.2296
+"['Beaubears Island', 'Northumberland County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Beaver Dam', 'Mohave County', 'Arizona Territory']",43.4688,-88.8309
+"['Beaver Harbour', 'Charlotte County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Bedford', 'Middlesex County', 'Massachusetts']",42.4969,-71.2783
+"['Beehive House', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Belfast', 'Antrim County', 'Ireland']",54.5964,-5.93
+"['Belfast', 'Waldo County', 'Maine']",54.5964,-5.93
+"['Bellefontaine', 'Logan County', 'Ohio']",40.3627,-83.763
+"['Belleville', 'Hendricks County', 'Indiana']",40.622,-79.1552
+"['Beloit', 'Mitchell County', 'Kansas']",42.523,-89.0184
+"['Benicia', 'Solano County', 'California']",38.2969,-76.4949
+"['Bennington', 'Bear Lake County', 'Idaho']",42.8854,-73.2133
+"['Bennington', 'Bear Lake County', 'Idaho Territory']",42.8854,-73.2133
+"['Bennington', 'Bennington County', 'Vermont']",42.8854,-73.2133
+"['Bennington', 'Oneida County', 'Idaho Territory']",42.8854,-73.2133
+"['Bennington', 'Washington County', 'Utah Territory']",42.8854,-73.2133
+"['Bergenfield', 'Bergen County', 'New Jersey']",40.9236,-73.9982
+"['Berlin', 'Brandenburg', 'Germany']",52.4167,12.5333
+"['Berlin', 'Hartford County', 'Connecticut']",41.6114,-72.7758
+"['Bern', 'Bear Lake County', 'Idaho']",46.9481,7.4475
+"['Bern', 'Bear Lake County', 'Idaho Territory']",46.9481,7.4475
+"['Bern', 'Switzerland']",46.9481,7.4475
+"['Beverly', 'Burlington County', 'New Jersey']",42.5681,-70.8627
+"['Beverly', 'Essex County', 'Massachusetts']",42.5681,-70.8627
+"['Bingen am Rhein', 'Germany']",49.9667,7.9
+"['Bingham', 'Salt Lake County', 'Utah Territory']",52.952,-0.953
+"['Birkenshaw', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Birmingham', 'Jefferson County', 'Alabama']",33.5279,-86.7971
+"['Black Butte', 'Siskiyou County', 'California']",38.2969,-76.4949
+"['Black Canyon', 'Montrose County', 'Colorado']",-22.8378,-51.9728
+"['Black River', 'Wisconsin Territory']",18.0257,-77.8509
+"['Black Rock', 'Buffalo County', 'New York']",40.6943,-73.9249
+"['Blackburn', 'Lancashire', 'England']",53.748,-2.482
+"['Blackfoot', 'Bingham County', 'Idaho']",43.194,-112.3454
+"['Blackfoot', 'Bingham County', 'Idaho Territory']",43.194,-112.3454
+"['Bloomfield', 'Essex County', 'New Jersey']",40.8098,-74.1869
+"['Bloomfield', 'Ontario County', 'New York']",40.6943,-73.9249
+"['Bluffdale', 'Salt Lake and Utah Counties', 'Utah']",40.4744,-111.9381
+"['Bluffdale', 'Salt Lake and Utah Counties', 'Utah Territory']",40.4744,-111.9381
+"['Bolton', 'Lancashire', 'England']",53.578,-2.429
+"['Bordentown', 'Burlington County', 'New Jersey']",40.142,-74.7098
+"['Bosley', 'Cheshire', 'England']",41.5113,-72.9036
+"['Boston', 'Suffolk County', 'Massachusetts']",42.3188,-71.0852
+"['Boston Common', 'Boston', 'Suffolk County', 'Massachusetts']",42.3188,-71.0852
+"['Bouctouche', 'Kent County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Boulder', 'Boulder County', 'Colorado']",-22.8378,-51.9728
+"['Bountiful', 'Davis County', 'Utah']",40.8721,-111.8647
+"['Bountiful', 'Davis County', 'Utah Territory']",40.8721,-111.8647
+"['Bountiful Meeting House', 'Bountiful', 'Davis County', 'Utah Territory']",40.8721,-111.8647
+"['Box Elder County Courthouse', 'Brigham City', 'Box Elder County', 'Utah Territory']",41.5035,-112.0453
+"['Bradford', 'Essex County', 'Massachusetts']",53.8,-1.75
+"['Bradford', 'Penobscot County', 'Maine']",53.8,-1.75
+"['Bradford', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Brandon', 'Manitoba', 'Canada']",49.8483,-99.95
+"['Brattleboro', 'Windham County', 'Vermont']",42.8619,-72.6145
+"['Bredstrup', 'Nørre Nærå', 'Skam', 'Odense', 'Denmark']",55.3958,10.3886
+"['Bridgeport', 'Fairfield County', 'Connecticut']",41.1918,-73.1954
+"['Bridgeport', 'Marion County', 'Indiana']",40.622,-79.1552
+"['Brigham City', 'Apache County', 'Arizona Territory']",41.5035,-112.0453
+"['Brigham City', 'Box Elder County', 'Utah']",41.5035,-112.0453
+"['Brigham City', 'Box Elder County', 'Utah Territory']",41.5035,-112.0453
+"['Brigham City Bowery', 'Brigham City', 'Apache County', 'Arizona Territory']",41.5035,-112.0453
+"['Brigham City Mill', 'Brigham City', 'Apache County', 'Arizona Territory']",41.5035,-112.0453
+"['Brigham Young Academy', 'Provo', 'Utah County', 'Utah']",40.2457,-111.6457
+"['Brigham Young Academy', 'Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Brigham Young College', 'Logan', 'Cache County', 'Utah']",41.7399,-111.8422
+"['Brigham Young Winter Home', 'St. George', 'Washington County', 'Utah Territory']",37.0758,-113.5752
+"['Brighouse', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Brighton', 'Sussex', 'England']",43.1346,-88.2226
+"['Brisbane', 'Queensland', 'Australia']",22.4995,-81.1359
+"['British Museum', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Broadbottom', 'Cheshire', 'England']",41.5113,-72.9036
+"['Broadway', 'New York City', 'New York County', 'New York']",40.6943,-73.9249
+"['Brockport', 'Monroe County', 'New York']",40.6943,-73.9249
+"['Brooklyn', 'Kings County', 'New York']",40.6943,-73.9249
+"['Brunswick', 'Cumberland County', 'Maine']",43.9007,-69.9761
+"['Brunswick', 'Medina County', 'Ohio']",41.2465,-81.8198
+"['Brutus', 'Cayuga County', 'New York']",40.6943,-73.9249
+"['Buckingham Palace', 'Westminster', 'Middlesex', 'England']",40.5744,-74.5011
+"['Bucyrus', 'Crawford County', 'Ohio']",40.8054,-82.9719
+"['Buffalo', 'Erie County', 'New York']",40.6943,-73.9249
+"['Burley', 'Cassia and Lincoln Counties', 'Idaho']",42.5379,-113.7926
+"['Burlington', 'Des Moines County', 'Iowa']",40.8071,-91.1247
+"['Burlington', 'Hartford County', 'Connecticut']",41.7598,-72.959
+"['Burnley', 'Lancashire', 'England']",53.789,-2.248
+"['Burslem', 'Staffordshire', 'England']",53.0426,-2.1879
+"['Bury', 'Lancashire', 'England']",53.593,-2.298
+"['Bushnell Basin', 'New York']",40.6943,-73.9249
+"['Butte', 'Silver Bow County', 'Montana']",43.4075,23.2217
+"['Buxton', 'York County', 'Maine']",53.259,-1.911
+"['Calgary', 'Northwest Territories', 'Canada']",51.05,-114.0667
+['California'],38.2969,-76.4949
+"['Calistoga', 'Napa County', 'California']",38.2969,-76.4949
+"['Cambridge', 'Middlesex County', 'Massachusetts']",42.3759,-71.1185
+"['Cambridge', 'Waipa', 'Waikato', 'New Zealand']",-37.8833,175.4667
+"['Cambridge City', 'Wayne County', 'Indiana']",40.622,-79.1552
+"['Cambridgeport', 'Cambridge', 'Middlesex County', 'Massachusetts']",42.3759,-71.1185
+"['Camden', 'Camden County', 'New Jersey']",39.9361,-75.1073
+"['Camillus', 'Onondaga County', 'New York']",40.6943,-73.9249
+"['Camp Verde', 'Yavapai County', 'Arizona Territory']",34.569,-111.856
+"['Canajoharie', 'Montgomery County', 'New York']",40.6943,-73.9249
+"['Canandaigua', 'Ontario County', 'New York']",40.6943,-73.9249
+"['Canton', 'Hartford County', 'Connecticut']",41.86,-72.9083
+"['Canton', 'St. Lawrence County', 'New York']",40.6943,-73.9249
+"['Cape Horn', 'Placer County', 'California']",38.2969,-76.4949
+"['Cape of Good Hope', 'Cape Town', 'Western Cape', 'South Africa']",-33.9253,18.4239
+"['Cassello', 'Lake County', 'Indiana']",40.622,-79.1552
+"['Castle Crags', 'Shasta County', 'California']",38.2969,-76.4949
+"['Cattaraugus County', 'New York']",40.6943,-73.9249
+"['Caughdenoy', 'Oswego County', 'New York']",40.6943,-73.9249
+"['Cedar City', 'Iron County', 'Utah']",37.6834,-113.0956
+"['Cedar City', 'Iron County', 'Utah Territory']",37.6834,-113.0956
+"['Cedar Rapids', 'Linn County', 'Iowa']",41.9662,-91.6783
+"['Centerville', 'Davis County', 'Utah']",40.9284,-111.8848
+"['Centerville', 'New Castle County', 'Delaware']",40.2851,-83.0741
+"['Centerville', 'Wayne County', 'Indiana']",40.622,-79.1552
+"['Charleston', 'Charleston County', 'South Carolina']",32.8168,-79.9687
+"['Charlottetown', 'Queens County', 'Prince Edward Island', 'British North America']",46.2403,-63.1347
+"['Chatham', 'Columbia County', 'New York']",40.6943,-73.9249
+"['Chatham', 'Northumberland County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Chattanooga', 'Hamilton and Marion Counties', 'Tennessee']",35.066,-85.2481
+"['Cheadle', 'Staffordshire', 'England']",52.9849,-1.9865
+"['Chelsea', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Chelsea', 'Suffolk County', 'Massachusetts']",42.3959,-71.0325
+"['Chepstow', 'Monmouthshire', 'Wales']",51.642,-2.675
+"['Cherry Creek', 'Arapahoe County', 'Colorado']",-22.8378,-51.9728
+"['Cherry Creek', 'Oneida County', 'Idaho']",39.6094,-104.8645
+"['Cheshire', 'England']",41.5113,-72.9036
+"['Cheshire', 'New Haven County', 'Connecticut']",41.5113,-72.9036
+"['Chester', 'Cheshire', 'England']",41.5113,-72.9036
+"['Chesterton', 'Staffordshire', 'England']",41.5997,-87.055
+"['Chestnut Street', 'Philadelphia', 'Philadelphia County', 'Pennsylvania']",40.0077,-75.1339
+"['Chicago', 'Cook County', 'Illinois']",41.8375,-87.6866
+"['Chronicle Building', 'San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['Cider Brook', 'Avon', 'Hartford County', 'Connecticut']",41.7907,-72.8538
+"['Cincinnati', 'Hamilton County', 'Ohio']",39.1413,-84.506
+"['Circleville', 'Piute County', 'Utah Territory']",39.6063,-82.9334
+"['Claremont', 'Sullivan County', 'New Hampshire']",43.379,-72.3368
+"['Clarkston', 'Cache County', 'Utah']",33.8117,-84.2403
+"['Clarkston', 'Cache County', 'Utah Territory']",33.8117,-84.2403
+"['Cleveland', 'Cuyahoga County', 'Ohio']",41.4764,-81.6805
+"['Cliff House', 'San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['Clinton', 'Middlesex County', 'Connecticut']",41.298,-72.53
+"['Clinton', 'Vermillion County', 'Indiana']",40.622,-79.1552
+"['Clitheroe', 'Lancashire', 'England']",53.8711,-2.3916
+"['Cloverdale', 'Sonoma County', 'California']",38.2969,-76.4949
+"['Clyde', 'Wayne County', 'New York']",40.6943,-73.9249
+"['Coalville', 'Summit County', 'Utah']",52.724,-1.369
+"['Coalville', 'Summit County', 'Utah Territory']",52.724,-1.369
+"['Coalville Meeting House', 'Coalville', 'Summit County', 'Utah Territory']",52.724,-1.369
+"['Coatbridge', 'Lanarkshire', 'Scotland']",55.8625,-4.0266
+"['Cocagne', 'Kent County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Cold Springs', 'unorganized U.S. Territory']",39.6927,-119.9775
+"['Coldwater', 'Branch County', 'Michigan']",41.9465,-84.9989
+"['Colesville', 'Broome County', 'New York']",40.6943,-73.9249
+"['Collins Mill', 'Collinsville', 'Hartford County', 'Connecticut']",38.677,-90.0063
+"['Collinsville', 'Hartford County', 'Connecticut']",38.677,-90.0063
+"['Cologne', 'Germany']",50.9364,6.9528
+['Colorado'],-22.8378,-51.9728
+"['Colorado Springs', 'El Paso County', 'Colorado']",-22.8378,-51.9728
+"['Columbus', 'Franklin County', 'Ohio']",39.9862,-82.9855
+"['Colusa County', 'California']",38.2969,-76.4949
+"['Conejos', 'Conejos County', 'Colorado']",-22.8378,-51.9728
+"['Conejos River', 'Colorado']",-22.8378,-51.9728
+"['Congleton', 'Cheshire', 'England']",41.5113,-72.9036
+"['Conneaut', 'Ashtabula County', 'Ohio']",41.9275,-80.5685
+"['Constantine', 'St. Joseph County', 'Missouri']",36.365,6.6147
+"['Copenhagen', 'Denmark']",55.6761,12.5683
+"['Corinth', 'Alcorn County', 'Mississippi']",34.9474,-88.5143
+"['Cottonwood Heights', 'Great Salt Lake County', 'Utah Territory']",40.6137,-111.8144
+"['Cottonwood Heights', 'Salt Lake County', 'Utah Territory']",40.6137,-111.8144
+"['Council Bluffs', 'Pottawattamie County', 'Iowa']",41.2369,-95.8516
+"['Council House', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Covent Garden', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Coxbank', 'Cheshire', 'England']",41.5113,-72.9036
+"['Crestone', 'Saguache County', 'Colorado']",-22.8378,-51.9728
+"['Cripple Creek', 'Teller County', 'Colorado']",-22.8378,-51.9728
+"['Croydon', 'Surrey', 'England']",49.19,-122.8489
+"['Crystal Palace', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Culebra Peak', 'Colorado']",-22.8378,-51.9728
+"['Cumberland', 'Allegany County', 'Maryland']",39.6515,-78.7584
+"['Cumberland', 'Hancock and Marion Counties', 'Indiana']",40.622,-79.1552
+"['Dallas', 'Dallas County', 'Texas']",32.7935,-96.7667
+"['Damascus', 'Syria']",33.5131,36.2919
+"['Dansville', 'Livingston County', 'New York']",40.6943,-73.9249
+"['Dartmouth', 'Halifax', 'Nova Scotia', 'Canada']",44.6475,-63.5906
+"['Davenport', 'Scott County', 'Iowa']",41.5565,-90.6053
+"['Daysville', 'Oswego County', 'New York']",40.6943,-73.9249
+"['Dayton', 'Montgomery County', 'Ohio']",39.7805,-84.2003
+"['Decatur', 'Macon County', 'Illinois']",39.8557,-88.9342
+"['Deer Lodge', 'Powell County', 'Montana']",43.4075,23.2217
+"['Del Monte', 'Monterey County', 'California']",38.2969,-76.4949
+['Delaware'],40.2851,-83.0741
+"['Deming', 'Grant County', 'New Mexico Territory']",32.2631,-107.7525
+"['Dennis', 'Barnstable County', 'Massachusetts']",41.7064,-70.1644
+"['Denver', 'Denver County', 'Colorado']",-22.8378,-51.9728
+"['Deptford', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Des Moines', 'Polk County', 'Iowa']",41.5725,-93.6105
+"['Deseret Hospital', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Detroit', 'Wayne County', 'Michigan']",42.3834,-83.1024
+"['Dixon', 'Lee County', 'Illinois']",41.8439,-89.4794
+"['Doncaster', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Dover', 'Strafford County', 'New Hampshire']",43.1887,-70.8845
+"['Downey', 'Bannock County', 'Idaho']",33.9379,-118.1311
+"['Draper', 'Salt Lake and Utah Counties', 'Utah']",40.4957,-111.8605
+"['Draper', 'Salt Lake and Utah Counties', 'Utah Territory']",40.4957,-111.8605
+"['Dresden', 'Germany']",51.05,13.74
+"['Dresden', 'Weakley County', 'Tennessee ']",51.05,13.74
+"['Driard Hotel', 'Victoria', 'British Columbia', 'Canada']",48.4283,-123.3647
+"['Dublin', 'Wayne County', 'Indiana']",40.622,-79.1552
+"['Dukinfield', 'Cheshire', 'England']",41.5113,-72.9036
+"['Dumbarton', 'Dunbartonshire', 'Scotland']",55.95,-4.5667
+"['Dumfries', 'Dumfries and Galloway', 'Scotland']",55.07,-3.603
+"['Dunham Town', 'Cheshire', 'England']",41.5113,-72.9036
+"['Dunmore', 'Northwest Territories', 'Canada']",41.4152,-75.6072
+"['Durango', 'La Plata County', 'Colorado']",-22.8378,-51.9728
+"['Eagle Gate Monument', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['East Germantown', 'Wayne County', 'Indiana']",40.622,-79.1552
+"['East River', 'New York']",40.6943,-73.9249
+"['Eccles', 'Lancashire', 'England']",53.4824,-2.339
+"['Economy', 'Beaver County', 'Pennsylvania']",40.6411,-80.1841
+"['Eden', 'Weber County', 'Utah']",36.5027,-79.7412
+"['Eden', 'Weber County', 'Utah Territory']",36.5027,-79.7412
+"['Edgewood', 'Siskiyou County', 'California']",38.2969,-76.4949
+"['Edinburgh', 'Edinburghshire', 'Scotland']",55.9533,-3.1892
+"['El Dorado', 'Butler County', 'Kansas']",37.821,-96.8613
+"['El Paso', 'El Paso County', 'Texas']",31.8476,-106.43
+"['Elkhart', 'Elkhart County', 'Indiana']",40.622,-79.1552
+"['Elmhurst', 'Lichfield', 'Staffordshire', 'England']",52.682,-1.829
+"['Elmira', 'Chemung County', 'New York']",40.6943,-73.9249
+"['Elton', 'Cheshire', 'England']",41.5113,-72.9036
+"['Emporia', 'Lyon County', 'Kansas']",38.4028,-96.1932
+"['Endowment House', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Enfield', 'Hartford County', 'Connecticut']",41.9839,-72.5548
+"['Ephraim', 'Conejos County', 'Colorado']",-22.8378,-51.9728
+"['Erie', 'Erie County', 'Pennsylvania']",42.1167,-80.0733
+"['Erie Canal', 'New York']",40.6943,-73.9249
+"['Erskineville', 'Sydney', 'New South Wales', 'Australia']",22.4995,-81.1359
+"['Escalante', 'Garfield County', 'Utah']",10.8333,123.5
+"['Escalante', 'Garfield County', 'Utah Territory']",10.8333,123.5
+"['Eskilstuna', 'Södermanland County', 'Sweden']",43.1791,-77.9406
+"['Eugene Township', 'Vermillion County', 'Indiana']",40.622,-79.1552
+"['Euxton', 'Lancashire', 'England']",53.662,-2.674
+"['Evans', 'Erie County', 'New York']",40.6943,-73.9249
+"['Evansville', 'Vanderburgh County', 'Indiana']",40.622,-79.1552
+"['Fabius', 'Onondaga County', 'New York']",40.6943,-73.9249
+"['Fair Haven', 'New Haven', 'New Haven County', 'Connecticut']",41.3113,-72.9246
+"['Fairfield', 'Herkimer County', 'New York']",40.6943,-73.9249
+"['Fairmount', 'Philadelphia', 'Pennsylvania']",40.0077,-75.1339
+"['Fairport', 'Monroe County', 'New York']",40.6943,-73.9249
+"['Fall River', 'Bristol County', 'Massachusetts']",41.7136,-71.1015
+"['Farmington', 'Davis County', 'Utah']",40.9845,-111.9065
+"['Farmington', 'Hartford County', 'Connecticut']",41.7288,-72.8407
+"['Farmington Meadows', 'Farmington', 'Hartford County', 'Connecticut']",41.7288,-72.8407
+"['Fayette', 'Seneca County', 'New York']",40.6943,-73.9249
+"['Ferndale', 'Humboldt County', 'California']",38.2969,-76.4949
+"['Fillmore', 'Millard County', 'Utah']",34.3989,-118.9174
+"['Fillmore', 'Millard County', 'Utah Territory']",34.3989,-118.9174
+"['Fire Island', 'Suffolk County', 'New York']",40.6943,-73.9249
+"['Fishkill', 'Dutchess County', 'New York']",40.6943,-73.9249
+"['Fishkill Landing', 'Dutchess County', 'New York']",40.6943,-73.9249
+"['Fitchburg', 'Worcester County', 'Massachusetts']",42.5912,-71.8156
+"['Fitzroy Square', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Flagstaff', 'Yavapai County', 'Arizona Territory']",35.1872,-111.6194
+"['Florence', 'Boone County', 'Kentucky']",38.9899,-84.6471
+"['Florence', 'Fremont County', 'Colorado']",-22.8378,-51.9728
+"['Florence', 'Italy']",43.7714,11.2542
+['Florida'],-34.1,-56.2167
+"['Flushing', 'New York City', 'Queens County', 'New York']",40.6943,-73.9249
+"['Flädie', 'Malmöhus', 'Sweden']",43.1791,-77.9406
+"['Fort Atkinson', 'Jefferson County', 'Wisconsin']",42.9253,-88.8442
+"['Fort Bliss', 'El Paso County', 'Texas']",31.8396,-106.3747
+"['Fort Collins', 'Larimer County', 'Colorado ']",-22.8378,-51.9728
+"['Fort Douglas', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Fort Garland', 'Costilla County', 'Colorado']",-22.8378,-51.9728
+"['Fort Logan', 'Arapahoe County', 'Colorado']",-22.8378,-51.9728
+"['Fort Madison', 'Lee County', 'Iowa']",40.6207,-91.3509
+"['Fort Morgan', 'Baldwin County', 'Alabama']",40.2537,-103.7903
+"['Fort Plain', 'Montgomery County', 'New York']",40.6943,-73.9249
+"['Fourth Ward Schoolhouse', 'St. George', 'Washington County', 'Utah Territory']",37.0758,-113.5752
+"['Framingham', 'Middlesex County', 'Massachusetts']",42.3085,-71.4368
+"['Frankfort', 'Franklin County', 'Kentucky']",38.1924,-84.8643
+"['Frankfort', 'Herkimer County', 'New York']",40.6943,-73.9249
+"['Frankfurt', 'Germany']",50.1106,8.6822
+"['Franklin', 'Norfolk County', 'Massachusetts']",42.0862,-71.4113
+"['Franklin County', 'New York']",40.6943,-73.9249
+"['Franklin Township', 'Henry County', 'Indiana']",40.622,-79.1552
+"['Fredericton', 'York County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Frederikshavn', 'Vendsyssel', 'Denmark']",57.441,10.534
+"['Fredonia', 'Chautauqua County', 'New York']",40.6943,-73.9249
+"['Freeport', 'Cumberland County', 'Maine']",43.8556,-70.1009
+"['Fresno', 'Fresno County', 'California']",38.2969,-76.4949
+"['Frisco', 'Beaver County', 'Utah']",33.156,-96.8216
+"['Frisco', 'Beaver County', 'Utah Territory']",33.156,-96.8216
+"['Fruita', 'Grand Junction Valley', 'Colorado ']",-22.8378,-51.9728
+"['Galion', 'Crawford County', 'Ohio']",40.7385,-82.7792
+"['Gallup', 'Bernalillo County', 'New Mexico Territory']",35.5182,-108.7431
+"['Garden Grove', 'Unorganized County', 'Iowa']",33.7787,-117.9601
+"['Garden of the Gods', 'Colorado Springs', 'El Paso County', 'Colorado']",-22.8378,-51.9728
+"['Gardo House', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Garfield', 'Salt Lake County', 'Utah Territory']",40.8791,-74.1085
+"['Garland', 'Box Elder County', 'Utah']",32.91,-96.6304
+"['Genesee County', 'New York']",40.6943,-73.9249
+"['Germantown', 'Wayne County', 'Indiana']",40.622,-79.1552
+"['Gibraltar', 'United Kingdom']",36.1333,-5.35
+"['Girard College', 'Philadelphia', 'Philadelphia County', 'Pennsylvania']",40.0077,-75.1339
+"['Gisborne', 'New Zealand']",-38.6625,178.0178
+"['Glenwood', 'Sevier County', 'Utah']",41.541,-87.6118
+"['Glenwood', 'Sevier County', 'Utah Territory']",41.541,-87.6118
+"['Glenwood Springs', 'Garfield County', 'Colorado']",-22.8378,-51.9728
+"['Goat Island', 'Niagara Falls', 'New York']",40.6943,-73.9249
+"['Gold Creek', 'Deer Lodge County', 'Montana']",43.4075,23.2217
+"['Golden Gate Bridge', 'San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['Golden Gate Park', 'San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['Golden Gate Strait', 'San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['Gothenburg', 'Västra Götaland County', 'Sweden']",43.1791,-77.9406
+"['Gourock', 'Renfrewshire', 'Scotland']",55.9538,-4.8173
+"['Grand Falls', 'Yavapai County', 'Arizona Territory']",48.9578,-55.6633
+"['Grand Hotel', 'Sacramento', 'Sacramento County', 'California']",38.2969,-76.4949
+"['Grand Junction Valley', 'Colorado']",-22.8378,-51.9728
+"['Grand Rapids', 'Kent County', 'Michigan']",42.9619,-85.6562
+"['Granger', 'Salt Lake County', 'Utah']",41.7374,-86.1348
+"['Granger', 'Salt Lake County', 'Utah Territory']",41.7374,-86.1348
+"['Granger', 'Sweetwater County', 'Wyoming Territory']",41.7374,-86.1348
+"['Grantsville', 'Tooele County', 'Utah']",40.6148,-112.4777
+"['Grantsville', 'Tooele County', 'Utah Territory']",40.6148,-112.4777
+"['Grantsville Meeting House', 'Grantsville', 'Tooele County', 'Utah Territory']",40.6148,-112.4777
+"['Grass Valley', 'Piute and Sevier Counties', 'Utah Territory']",39.2238,-121.0522
+"['Grass Valley', 'Washington County', 'Utah Territory']",39.2238,-121.0522
+['Greece'],43.246,-77.6988
+"['Greeley', 'Weld County', 'Colorado']",-22.8378,-51.9728
+"['Green Bay', 'Brown County', 'Wisconsin']",44.5148,-87.9895
+"['Green Haven', 'Dutchess County', 'New York']",40.6943,-73.9249
+"['Green River', 'Emery County', 'Utah Territory']",41.5127,-109.471
+"['Green River', 'Sweetwater County', 'Wyoming Territory']",41.5127,-109.471
+"['Green River', 'unorganized U.S. Territory']",41.5127,-109.471
+"['Greenbush', 'Rensselaer County', 'New York']",40.6943,-73.9249
+"['Greencastle', 'Putnam County', 'Indiana']",40.622,-79.1552
+"['Greenfield', 'Hancock County', 'Indiana']",40.622,-79.1552
+"['Greenock', 'Renfrewshire', 'Scotland']",55.95,-4.765
+"['Greenville', 'Floyd County', 'Indiana']",40.622,-79.1552
+"['Greenville', 'Greene County', 'New York']",40.6943,-73.9249
+"['Greenwich', 'Piute County', 'Utah Territory']",41.0665,-73.6368
+"['Greenwich Point', 'Greenwich', 'Fairfield County', 'Connecticut']",41.0665,-73.6368
+"['Greer', 'Apache County', 'Arizona Territory']",34.933,-82.2313
+"['Greytown', 'Wairarapa', 'New Zealand']",10.9467,-83.7358
+"['Grinnell', 'Poweshiek County', 'Iowa']",41.7359,-92.7244
+"['Groton', 'Middlesex County', 'Massachusetts']",42.6137,-71.5614
+"['Göta Canal', 'Götaland', 'Sweden']",43.1791,-77.9406
+"['Haifa', 'Palestine']",31.7544,-95.6471
+"['Hamburg', 'Erie County', 'New York']",40.6943,-73.9249
+"['Hamilton', 'Madison County', 'New York']",40.6943,-73.9249
+"['Hampden', 'Penobscot County', 'Maine']",40.2602,-76.9809
+"['Hampton', 'Rockingham County', 'New Hampshire']",42.9391,-70.837
+"['Hannibal', 'Marion County', 'Missouri']",39.7098,-91.3939
+"['Harrisburg', 'Dauphin County', 'Pennsylvania']",40.2752,-76.8843
+"['Hartford', 'Hartford County', 'Connecticut']",41.7661,-72.6834
+"['Hartford', 'Washington County', 'New York']",40.6943,-73.9249
+"['Harvard University', 'Cambridge', 'Middlesex County', 'Massachusetts']",42.3759,-71.1185
+"['Harwich', 'Barnstable County', 'Massachusetts']",41.6957,-70.0684
+"['Haslington', 'Cheshire', 'England']",41.5113,-72.9036
+"['Havana', 'La Habana', 'Cuba']",23.1367,-82.3589
+"['Haverhill', 'Essex County', 'Massachusetts']",42.7838,-71.0871
+"['Haverstraw', 'Rockland County', 'New York']",40.6943,-73.9249
+"['Helena', 'Lewis and Clark County', 'Montana']",43.4075,23.2217
+"['Hempstead', 'Nassau County', 'New York']",40.6943,-73.9249
+"['Henderson', 'Jefferson County', 'New York']",40.6943,-73.9249
+"['Henrietta', 'Monroe County', 'New York']",40.6943,-73.9249
+"['Herriman', 'Salt Lake County', 'Utah']",40.4899,-112.017
+"['Hill Cumorah', 'Manchester', 'Ontario County', 'New York']",40.6943,-73.9249
+"['Hill Farm', 'Ledbury', 'Herefordshire', 'England']",52.0339,-2.4235
+"['Hillsdale', 'Iron County', 'Utah Territory']",41.0074,-74.044
+"['Hinckley', 'Millard County', 'Utah']",52.5413,-1.3725
+"['Hinckley', 'Millard County', 'Utah Territory']",52.5413,-1.3725
+"['Hoboken', 'Hudson County', 'New Jersey']",40.7452,-74.0281
+"['Holden', 'Millard County', 'Utah Territory']",42.3561,-71.8608
+"['Holladay', 'Salt Lake County', 'Utah Territory']",40.66,-111.8226
+['Holland'],42.7677,-86.0984
+"['Holland', 'Hampden County', 'Massachusetts']",42.7677,-86.0984
+"['Hollenbeck Hotel', 'Los Angeles', 'Los Angeles County', 'California']",38.2969,-76.4949
+"['Holley', 'Murray', 'Orleans County', 'New York']",40.6943,-73.9249
+"['Holliston', 'Middlesex County', 'Massachusetts']",42.1977,-71.445
+"['Holmdel', 'Monmouth County', 'New Jersey']",40.3768,-74.1725
+"['Holmesville', 'Oswego County', 'New York']",40.6943,-73.9249
+"['Holyhead', 'Anglesey', 'Wales']",53.309,-4.633
+"['Honolulu', 'Kingdom of Hawaii']",21.3294,-157.846
+['Hooper'],41.1599,-112.2871
+"['Hooper', 'Weber Co.', 'Utah']",41.1599,-112.2871
+"['Hooper', 'Weber County', 'Utah']",41.1599,-112.2871
+"['Hooper', 'Weber County', 'Utah Territory']",41.1599,-112.2871
+"['Hoosick', 'Rensselaer County', 'New York']",40.6943,-73.9249
+"['Hopkinton', 'Middlesex County', 'Massachusetts']",42.2255,-71.5378
+"['Horgen', 'Zürich', 'Switzerland']",47.2667,8.6
+"['Hotel Del Coronado', 'San Diego', 'San Diego County', 'California']",38.2969,-76.4949
+"['Hotel Del Monte', 'Monterey', 'Monterey County', 'California']",38.2969,-76.4949
+"['Hotel Templeton', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Houston', 'Harris County', 'Texas']",29.786,-95.3885
+"['Hudson River', 'New York']",40.6943,-73.9249
+"['Hull', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Huntsville', 'Randolph County', 'Indiana']",40.622,-79.1552
+"['Hyde Park', 'Cache County', 'Utah']",41.8011,-73.906
+"['Hyde Park', 'Cache County', 'Utah Territory']",41.8011,-73.906
+"['Hyrum', 'Cache County', 'Utah']",41.6325,-111.8445
+"['Hyrum', 'Cache County', 'Utah Territory']",41.6325,-111.8445
+"['Idaho Falls', 'Bingham County', 'Idaho']",43.4871,-112.0362
+"['Idle', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Ignaberga', 'Vestra Goinge', 'Kristianstad', 'Sweden']",43.1791,-77.9406
+"['Independence', 'Jackson County', 'Missouri']",39.0871,-94.3501
+"['Independence Hall', 'Philadelphia', 'Philadelphia County', 'Pennsylvania']",40.0077,-75.1339
+['Indiana'],40.622,-79.1552
+"['Indianapolis', 'Marion County', 'Indiana']",40.622,-79.1552
+"['Iona', 'Bingham County', 'Idaho']",26.516,-81.9601
+"['Iona', 'Bingham County', 'Idaho Territory']",26.516,-81.9601
+"['Iona Island', 'Rockland County', 'New York']",40.6943,-73.9249
+"['Iowa City', 'Johnson County', 'Iowa']",41.6559,-91.5303
+"['Ipswich', 'Suffolk', 'England']",36.6953,-76.6398
+"['Isle of Patmos', 'Greece']",43.246,-77.6988
+"['Islington', 'Liverpool', 'Lancashire', 'England']",53.4075,-2.9919
+"['Islington', 'Middlesex', 'England']",40.5744,-74.5011
+"['Jackson', 'Jackson County', 'Michigan']",42.2431,-84.4038
+"['Jackson', 'Madison County', 'Tennessee']",35.6538,-88.8354
+"['Jacksonville', 'Duval County', 'Florida']",-34.1,-56.2167
+"['Jacksonville', 'Morgan County', 'Illinois']",39.7292,-90.2317
+"['Jefferson City', 'Cole County', 'Missouri']",38.5676,-92.1759
+"['Jefferson County', 'New York']",40.6943,-73.9249
+"['Jeffersonville', 'Fayette County', 'Ohio']",38.3376,-85.7026
+"['Jersey City', 'Hudson County', 'New Jersey']",40.7184,-74.0686
+['Jerusalem'],31.7784,35.2066
+"['Johnstone', 'Renfrewshire', 'Scotland']",55.8346,-4.5027
+"['Jordan', 'Onondaga County', 'New York']",40.6943,-73.9249
+"['Jordan River', 'Palestine']",31.7544,-95.6471
+"['Junction City', 'Geary County', 'Kansas']",39.0277,-96.8508
+"['Juneau', 'District of Alaska']",58.4546,-134.1739
+"['Kalamazoo', 'Kalamazoo County', 'Michigan']",42.2749,-85.5882
+"['Kansas City', 'Jackson County', 'Missouri']",39.1238,-94.5541
+"['Kansas State Normal School', 'Emporia', 'Lyon County', 'Kansas']",38.4028,-96.1932
+"['Karlskrona', 'Blekinge County', 'Sweden']",43.1791,-77.9406
+"['Kaysville', 'Davis County', 'Utah']",41.029,-111.9456
+"['Kaysville', 'Davis County', 'Utah Territory']",41.029,-111.9456
+"['Kaysville Meeting House', 'Kaysville', 'Davis County', 'Utah Territory']",41.029,-111.9456
+"['Keene', 'Cheshire County', 'New Hampshire']",42.9494,-72.2998
+"['Keighley', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Kelsey', 'El Dorado County', 'California']",38.2969,-76.4949
+"['Kendal', 'Westmorland', 'England']",54.326,-2.745
+"['Kennebunk', 'York County', 'Maine']",43.3972,-70.5707
+"['Kensington', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Keokuk', 'Lee County', 'Iowa']",40.4095,-91.4031
+"['Keokuk', 'Lee County', 'Iowa Territory']",40.4095,-91.4031
+"['Kidderminster', 'Worcestershire', 'England']",52.3885,-2.249
+"['Kiel', 'Schleswig-Holstein', 'Germany']",54.3233,10.1394
+"['Knightstown', 'Henry County', 'Indiana']",40.622,-79.1552
+"['Knoxville', 'Knox County', 'Illinois']",35.9692,-83.9496
+"['Knoxville', 'Ray County', 'Missouri']",35.9692,-83.9496
+"['Knutsford Hotel', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Koblenz', 'Germany']",50.3597,7.5978
+"['Korsør City', 'Sorø', 'Slagelse', 'Denmark']",55.4049,11.3531
+"['Kouchibouguac', 'Kent County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['LDS College', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['La Jara', 'Conejos County', 'Colorado']",-22.8378,-51.9728
+"['La Junta', 'Otero County', 'Colorado']",-22.8378,-51.9728
+"['La Porte', 'La Porte County', 'Indiana']",40.622,-79.1552
+"['La Veta Pass', 'Colorado']",-22.8378,-51.9728
+"['LaSalle', 'LaSalle County', 'Illinois']",41.3589,-89.0737
+"['Lafayette', 'Tippecanoe County', 'Indiana']",40.622,-79.1552
+"['Lake City', 'Utah County', 'Utah Territory']",30.1901,-82.6471
+"['Lake County', 'Indiana']",40.622,-79.1552
+"['Lake Shore', 'Utah County', 'Utah']",39.103,-76.4876
+"['Lake Shore', 'Utah County', 'Utah Territory']",39.103,-76.4876
+"['Lanark', 'Lanarkshire', 'Scotland']",55.6749,-3.777
+"['Landbrogatan', 'Karlskrona', 'Blekinge County', 'Sweden']",43.1791,-77.9406
+"['Lansing', 'Ingham County', 'Michigan']",42.7142,-84.5601
+"['Laramie', 'Albany County', 'Wyoming Territory']",41.3099,-105.6085
+"['Laramie', 'unorganized U.S. Territory']",41.3099,-105.6085
+"['Las Cruces', 'Doña Ana County', 'New Mexico Territory']",32.3265,-106.7893
+"['Launceston', 'Tasmania', 'Australia']",22.4995,-81.1359
+"['Layton', 'Davis County', 'Utah']",41.077,-111.962
+"['Layton', 'Davis County', 'Utah Territory']",41.077,-111.962
+"['Layton', 'Graham County', 'Arizona Territory']",41.077,-111.962
+"['Le Roy', 'Genesee County', 'New York']",40.6943,-73.9249
+"['Leadville', 'Lake County', 'Colorado']",-22.8378,-51.9728
+"['Leamington', 'Millard County', 'Utah Territory']",42.0667,-82.5833
+"['Leamington', 'Warwickshire', 'England']",42.0667,-82.5833
+"['Lebanon', 'Warren County', 'Ohio']",39.4254,-84.2133
+"['Ledbury', 'Herefordshire', 'England']",52.0339,-2.4235
+"['Leduc', 'Alturas County', 'Idaho']",53.2594,-113.5492
+"['Leeds', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Lehi', 'Maricopa County', 'Arizona Territory']",40.4136,-111.8725
+"['Lehi', 'Utah County', 'Utah']",40.4136,-111.8725
+"['Lehi', 'Utah County', 'Utah Territory']",40.4136,-111.8725
+"['Lehi Sugar Factory', 'Lehi', 'Utah County', 'Utah']",40.4136,-111.8725
+"['Lehi Sugar Factory', 'Lehi', 'Utah County', 'Utah Territory']",40.4136,-111.8725
+"['Leicester', 'Worcester County', 'Massachusetts']",42.24,-71.912
+"['Leicester Square', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Leigh', 'Fremont County', 'Idaho']",53.4975,-2.515
+"['Leigh', 'Gloucestershire', 'England']",53.4975,-2.515
+"['Leigh', 'Lancashire', 'England']",53.4975,-2.515
+"['Leigh', 'Worcestershire', 'England']",53.4975,-2.515
+"['Leith', 'Edinburghshire', 'Scotland']",55.98,-3.17
+"['Lethbridge', 'Northwest Territories', 'Canada']",49.6942,-112.8328
+"['Lexington', 'Fayette County', 'Kentucky']",38.0423,-84.4587
+"['Leyland', 'Lancashire', 'England']",53.692,-2.697
+"['Liberty', 'Clay County', 'Missouri']",39.2394,-94.4191
+"['Liberty Jail', 'Liberty', 'Clay County', 'Missouri']",39.2394,-94.4191
+"['Liberty Park', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Lick House', 'San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['Lima', 'Livingston County', 'New York']",40.6943,-73.9249
+"['Lincoln', 'Lancaster County', 'Nebraska']",40.8099,-96.6784
+"['Lion House', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Lisburn', 'Antrim County', 'Ireland']",54.5167,-6.0333
+"['Little Horton', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Little Rock', 'Pulaski County', 'Arkansas']",34.7256,-92.3577
+"['Little Rock', 'Pulaski County', 'Arkansas Territory']",34.7256,-92.3577
+"['Livermore', 'Kennebec County', 'Maine']",37.6868,-121.7607
+"['Liverpool', 'Lancashire', 'England']",53.4075,-2.9919
+"['Livonia', 'Wayne County', 'Michigan']",42.3972,-83.3733
+"['Lockport', 'Niagara County', 'New York']",40.6943,-73.9249
+"['Lockport', 'Niagra County', 'New York']",40.6943,-73.9249
+"['Logan', 'Cache County', 'Utah']",41.7399,-111.8422
+"['Logan Temple', 'Logan', 'Cache County', 'Utah']",41.7399,-111.8422
+"['London', 'Madison County', 'Ohio']",39.8935,-83.4375
+"['London', 'Middlesex', 'England']",40.5744,-74.5011
+"['London Bridge', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Long Island', 'Queens County', 'New York']",40.6943,-73.9249
+"['Long Lane', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Longton', 'Lancashire', 'England']",52.9877,-2.1327
+"['Longton', 'Staffordshire', 'England']",52.9877,-2.1327
+"['Los Angeles', 'Los Angeles County', 'California']",38.2969,-76.4949
+"['Loudonville', 'Richland County', 'Ohio']",42.7068,-73.7665
+"['Louisville', 'Henry County', 'Indiana']",40.622,-79.1552
+"['Louisville', 'Jefferson County', 'Kentucky']",38.1663,-85.6485
+"['Lowell', 'Middlesex County', 'Massachusetts']",42.6389,-71.3217
+"['Lowestoft', 'Suffolk County', 'England']",52.48,1.75
+"['Lyman', 'Bingham County', 'Idaho']",48.9853,37.8111
+"['Lyman', 'Fremont County', 'Idaho']",48.9853,37.8111
+"['Lyman', 'Grafton County', 'New Hampshire']",48.9853,37.8111
+"['Lyman', 'Oneida County', 'Idaho Territory']",48.9853,37.8111
+"['Lyndon', 'Caledonia County', 'Vermont']",38.2645,-85.5891
+"['Lynn', 'Essex County', 'Massachusetts']",42.4781,-70.9664
+"['Lyons', 'Wayne County', 'New York']",40.6943,-73.9249
+"['Lünen', 'Westphalia', 'Prussia']",38.8356,-76.8298
+"['Macclesfield', 'Cheshire', 'England']",41.5113,-72.9036
+"['Macomb', 'McDonough County', 'Illinois']",40.4709,-90.6807
+"['Macon', 'Macon-Bibb County', 'Georgia']",32.8065,-83.6974
+"['Madison', 'Dane County', 'Wisconsin']",43.0822,-89.393
+"['Madison', 'Morris County', 'New Jersey']",40.7586,-74.4169
+"['Mainz', 'Germany']",49.9833,8.2667
+"['Malmö City', 'Malmöhus', 'Sweden']",43.1791,-77.9406
+"['Malvern', 'Worcestershire', 'England']",34.3734,-92.8205
+"['Manassa', 'Conejos County', 'Colorado']",-22.8378,-51.9728
+"['Manchester', 'Ontario County', 'New York']",40.6943,-73.9249
+"['Mancos', 'Montezuma County', 'Colorado']",-22.8378,-51.9728
+"['Manhattan', 'Putnam County', 'Indiana']",40.622,-79.1552
+"['Mansfield', 'Richland County', 'Ohio']",40.7656,-82.5275
+"['Mansfield Center', 'Mansfield', 'Tolland County', 'Connecticut']",41.7892,-72.2287
+"['Mansion House', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Maple Canyon', 'Springville', 'Utah County', 'Utah Territory']",40.1638,-111.6205
+"['Mapleton', 'Utah County', 'Utah']",40.1188,-111.5742
+"['Marblehead', 'Essex County', 'Massachusetts']",42.4992,-70.8639
+"['Marion', 'Marion County', 'Ohio']",40.5973,-83.1227
+"['Marylebone', 'Middlesex', 'England']",40.5744,-74.5011
+"['Masonic Temple', 'Chicago', 'Cook County', 'Illinois']",41.8375,-87.6866
+"['Massachusetts State House', 'Boston', 'Suffolk County', 'Massachusetts']",42.3188,-71.0852
+"['Matteawan', 'Dutchess County', 'New York']",40.6943,-73.9249
+"['Mayfield', 'Cuyahoga County', 'Ohio']",36.7371,-88.6447
+"['Mayfield', 'Graves County', 'Kentucky']",36.7371,-88.6447
+"['Mayfield', 'Sanpete County', 'Utah']",36.7371,-88.6447
+"['Mayfield', 'Sanpete County', 'Utah Territory']",36.7371,-88.6447
+"['Medicine Hat', 'Northwest Territories', 'Canada']",50.0417,-110.6775
+"['Medina', 'Orleans County', 'New York']",40.6943,-73.9249
+"['Melbourne', 'Victoria', 'Australia']",22.4995,-81.1359
+"['Memphis', 'Shelby County', 'Tennessee']",35.1087,-89.9663
+"['Mendon', 'Cache County', 'Utah']",42.9859,-77.5479
+"['Mendon', 'Cache County', 'Utah Territory']",42.9859,-77.5479
+"['Menlo Park', 'San Mateo County', 'California']",38.2969,-76.4949
+"['Mesa', 'Maricopa County', 'Arizona Territory']",33.4015,-111.7178
+"['Middlebury', 'Mercer County', 'Missouri']",44.0043,-73.1218
+"['Middlebury', 'Van Wert County', 'Ohio']",44.0043,-73.1218
+"['Middleport', 'Niagara County', 'New York']",40.6943,-73.9249
+"['Middletown', 'Henry County', 'Indiana']",40.622,-79.1552
+"['Middletown', 'Middlesex County', 'Connecticut']",41.5476,-72.6549
+"['Middletown', 'Orange County', 'New York']",40.6943,-73.9249
+"['Middlewich', 'Cheshire', 'England']",41.5113,-72.9036
+"['Midway', 'Wasatch County', 'Utah']",30.4169,-87.0229
+"['Midway', 'Wasatch County', 'Utah Territory']",30.4169,-87.0229
+"['Mill Creek', 'Great Salt Lake County', 'Utah Territory']",47.8631,-122.2037
+"['Mill Creek', 'Huntingdon County', 'Pennsylvania']",47.8631,-122.2037
+"['Mill Creek', 'Salt Lake County', 'Utah']",47.8631,-122.2037
+"['Mill Creek', 'Salt Lake County', 'Utah Territory']",47.8631,-122.2037
+"['Mill Creek Meeting House', 'Mill Creek', 'Salt Lake County', 'Utah']",47.8631,-122.2037
+"['Mill Creek Meeting House', 'Mill Creek', 'Salt Lake County', 'Utah Territory']",47.8631,-122.2037
+"['Millbury', 'Worcester County', 'Massachusetts']",42.1925,-71.7741
+"['Millville', 'Cache County', 'Utah']",39.3903,-75.0561
+"['Millville', 'Cache County', 'Utah Territory']",39.3903,-75.0561
+"['Millville', 'Cochise County', 'Arizona Territory']",39.3903,-75.0561
+"['Milwaukee', 'Milwaukee County', 'Wisconsin']",43.0642,-87.9675
+"['Milwaukee', 'Milwaukee County', 'Wisconsin Territory']",43.0642,-87.9675
+"['Minneapolis', 'Hennepin County', 'Minnesota']",44.9635,-93.2678
+"['Miramichi', 'Northumberland County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Miramichi River', 'Northumberland County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Mission San Juan Capistrano', 'San Juan Capistrano', 'Orange County', 'California']",38.2969,-76.4949
+"['Moberly', 'Randolph County', 'Missouri']",39.4179,-92.4364
+"['Mobile', 'Mobile County', 'Alabama']",30.6782,-88.1162
+"['Mohawk River', 'New York']",40.6943,-73.9249
+"['Monmouth', 'Warren County', 'Illinois']",40.914,-90.6425
+"['Monroe', 'Butler County', 'Ohio']",39.4461,-84.3667
+['Montana'],43.4075,23.2217
+"['Monte Vista', 'Rio Grande County', 'Colorado']",-22.8378,-51.9728
+"['Monterey', 'Monterey County', 'California']",38.2969,-76.4949
+"['Monterey Bay', 'California']",38.2969,-76.4949
+"['Montezuma', 'Cayuga County', 'New York']",40.6943,-73.9249
+"['Montgomery', 'Montgomery County', 'Alabama']",32.3482,-86.2668
+"['Montgomery County', 'New York']",40.6943,-73.9249
+"['Montpelier', 'Bear Lake County', 'Idaho']",44.2659,-72.5717
+"['Montpelier', 'Bear Lake County', 'Idaho Territory']",44.2659,-72.5717
+"['Montpelier', 'Oneida County', 'Idaho Territory']",44.2659,-72.5717
+"['Montreal', 'Canada East', 'British North America']",45.5089,-73.5617
+"['Montreal', 'Quebec', 'Canada']",45.5089,-73.5617
+"['Mooers', 'Clinton County', 'New York']",40.6943,-73.9249
+"['Moroni', 'Sanpete County', 'Utah']",-11.699,43.256
+"['Moroni', 'Sanpete County', 'Utah Territory']",-11.699,43.256
+"['Moroni School House', 'Moroni', 'Sanpete County', 'Utah Territory']",-11.699,43.256
+"['Morrison', 'Jefferson County', 'Colorado']",-22.8378,-51.9728
+"['Morriston', 'Forrest County', 'Mississippi']",51.6647,-3.9389
+"['Moscow', 'Russia']",55.7558,37.6178
+"['Moss Side', 'Leyland', 'Lancashire', 'England']",53.692,-2.697
+"['Mott', 'Siskiyou County', 'California']",38.2969,-76.4949
+"['Mottram', 'Cheshire', 'England']",41.5113,-72.9036
+"['Mount Auburn Cemetery', 'Cambridge', 'Middlesex County', 'Massachusetts']",42.3759,-71.1185
+"['Mount Shasta', 'Siskiyou County', 'California']",38.2969,-76.4949
+['Mount Sinai'],40.9372,-73.0179
+"['Mount Vernon', 'Knox County', 'Ohio']",40.3854,-82.4737
+"['Mount Vista', 'Henry County', 'Tennessee']",45.7373,-122.6316
+"['Mount of Olives', 'Jerusalem']",31.7784,35.2066
+"['Mountain View', 'Northwest Territories', 'Canada']",37.4001,-122.0796
+"['Mountain View', 'Santa Clara County', 'California']",38.2969,-76.4949
+"['Mt. Tamalpais', 'Marin County', 'California']",38.2969,-76.4949
+"['Mumford', 'Monroe County', 'New York']",40.6943,-73.9249
+"['Murfreesboro', 'Rutherford County', 'Tennessee']",35.849,-86.4121
+"['Murray', 'Salt Lake County', 'Utah']",40.6498,-111.8874
+"['Nampa', 'Canyon County', 'Idaho']",43.5844,-116.5638
+"['Nantucket', 'Nantucket County', 'Massachusetts']",41.2831,-70.0692
+"['Naperville', 'DuPage and Will Counties', 'Illinois']",41.748,-88.1659
+"['Napoleon', 'Jackson County', 'Michigan']",41.3977,-84.1244
+"['Nashua', 'Hillsborough County', 'New Hampshire']",42.7491,-71.491
+"['Nashville', 'Davidson County', 'Tennessee']",36.1715,-86.7842
+"['Nashville', 'Dubuque County', 'Iowa Territory']",36.1715,-86.7842
+"['Natchez', 'Adams County', 'Mississippi']",31.5437,-91.3867
+"['National Gallery', 'Westminster', 'Middlesex', 'England']",40.5744,-74.5011
+"['Naugatuck', 'New Haven County', 'Connecticut']",41.489,-73.0518
+"['Needham', 'Norfolk County', 'Massachusetts']",42.2814,-71.2411
+"['New Bedford', 'Bristol County', 'Massachusetts']",41.6697,-70.9428
+"['New Britain', 'Hartford County', 'Connecticut']",41.6759,-72.7862
+"['New Brunswick', 'British North America']",40.487,-74.445
+"['New Castle', 'New Castle County', 'Delaware']",40.2851,-83.0741
+"['New Chinese Theatre', 'San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['New Hartford', 'Litchfield County', 'Connecticut']",43.0586,-75.2821
+"['New Haven', 'New Haven County', 'Connecticut']",41.3113,-72.9246
+"['New London', 'Oneida County', 'New York']",40.6943,-73.9249
+"['New Orleans', 'Louisiana']",30.0687,-89.9288
+"['New Orleans', 'Orleans Parish', 'Louisiana']",30.0687,-89.9288
+"['New Westminster', 'British Columbia', 'Canada']",49.2069,-122.9111
+['New York'],40.6943,-73.9249
+"['New York Bay', 'New York']",40.6943,-73.9249
+"['New York City', 'New York County', 'New York']",40.6943,-73.9249
+"['New York Harbor', 'New York County', 'New York']",40.6943,-73.9249
+"['Newark', 'Essex County', 'New Jersey']",40.7245,-74.1725
+"['Newark', 'Licking County', 'Ohio']",40.0706,-82.425
+"['Newark', 'New Castle County', 'Delaware']",40.2851,-83.0741
+"['Newark', 'Wayne County', 'New York']",40.6943,-73.9249
+"['Newburgh', 'Orange County', 'New York']",40.6943,-73.9249
+"['Newburyport', 'Essex County', 'Massachusetts']",42.8124,-70.8878
+"['Newcastle', 'Miramichi', 'Northumberland County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Newton', 'Auckland', 'New Zealand']",-36.8406,174.74
+"['Newton', 'Middlesex County', 'Massachusetts']",42.3316,-71.2085
+"['Newton Moor', 'Cheshire', 'England']",41.5113,-72.9036
+"['Newtown', 'Sydney', 'New South Wales', 'Australia']",22.4995,-81.1359
+"['Niagara County', 'New York']",40.6943,-73.9249
+"['Niles Township', 'Delaware County', 'Indiana']",40.622,-79.1552
+"['Norfolk', 'Madison County', 'Nebraska']",42.0324,-97.4217
+"['North Bend', 'British Columbia', 'Canada']",43.4075,-124.2364
+"['North Bend', 'Sanpete County', 'Utah Territory']",43.4075,-124.2364
+"['North Haven', 'New Haven County', 'Connecticut']",41.3818,-72.8573
+"['North Ogden', 'Weber County', 'Utah']",41.3123,-111.9584
+"['North Ogden', 'Weber County', 'Utah Territory']",41.3123,-111.9584
+"['North Platte', 'Lincoln County', 'Nebraska']",41.1263,-100.7641
+"['Northampton', 'Hampshire County', 'Massachusetts']",42.3266,-72.6745
+"['Northbridge', 'Worcester County', 'Massachusetts']",42.13,-71.6547
+"['Northport', 'Waldo County', 'Maine']",33.2586,-87.5993
+"['Northwich', 'Cheshire', 'England']",41.5113,-72.9036
+"['Norwalk', 'Fairfield County', 'Connecticut']",41.1144,-73.4215
+"['Norwich', 'Chenango County', 'New York']",40.6943,-73.9249
+"['Norwich', 'New London County', 'Connecticut']",41.5495,-72.0882
+"['Nottingham', 'Nottinghamshire', 'England']",52.9533,-1.15
+"['Nottingham', 'Rockingham County', 'New Hampshire']",52.9533,-1.15
+"['Oakland', 'Alameda County', 'California']",38.2969,-76.4949
+"['Oakley', 'Cassia County', 'Idaho']",37.9929,-121.6952
+"['Oakley', 'Cassia County', 'Idaho Territory']",37.9929,-121.6952
+"['Ogden', 'Weber County', 'Utah']",41.2279,-111.9682
+"['Ogdensburg', 'St. Lawrence County', 'New York']",40.6943,-73.9249
+"['Ohio Falls', 'Clark County', 'Indiana']",40.622,-79.1552
+"['Old St. George Courthouse', 'St. George', 'Washington County', 'Utah Territory']",37.0758,-113.5752
+"['Oldham', 'Lancashire', 'England']",53.5444,-2.1169
+"['Omaha', 'Douglas County', 'Nebraska']",41.2627,-96.0529
+"['Oneida', 'Bingham County', 'Idaho']",43.0769,-75.6622
+"['Oneida', 'Bingham County', 'Idaho Territory']",43.0769,-75.6622
+"['Oneida County', 'New York']",40.6943,-73.9249
+"['Onondaga', 'Onondaga County', 'New York']",40.6943,-73.9249
+"['Ora', 'Fremont County', 'Idaho']",36.2524,139.4623
+"['Orangeville', 'Emery County', 'Utah']",43.9167,-80.1167
+"['Orangeville', 'Emery County', 'Utah Territory']",43.9167,-80.1167
+"['Oswego', 'Oswego County', 'New York']",40.6943,-73.9249
+"['Oswego County', 'New York']",40.6943,-73.9249
+"['Ottawa', 'LaSalle County', 'Illinois']",41.3555,-88.8261
+"['Overland', 'Denver', 'Denver County', 'Colorado']",-22.8378,-51.9728
+"['Ovid', 'Seneca County', 'New York']",40.6943,-73.9249
+"['Owensboro', 'Daviess County', 'Kentucky']",37.7575,-87.1172
+"['Oxford Street', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Paducah', 'McCracken County', 'Kentucky']",37.0711,-88.644
+"['Painesville', 'Geauga County', 'Ohio']",41.724,-81.2536
+"['Painesville', 'Lake County', 'Ohio']",41.724,-81.2536
+"['Paisley', 'Renfrewshire', 'Scotland']",55.8456,-4.4239
+"['Pajaro Valley', 'Santa Cruz and Monterey Counties', 'California']",38.2969,-76.4949
+"['Palace Hotel', 'San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['Palace of Westminster', 'Westminster', 'Middlesex', 'England']",40.5744,-74.5011
+"['Palermo', 'Oswego County', 'New York']",40.6943,-73.9249
+['Palestine'],31.7544,-95.6471
+"['Palmyra', 'Wayne County', 'New York']",40.6943,-73.9249
+"['Paonia', 'Delta County', 'Colorado']",-22.8378,-51.9728
+"['Paris', 'Edgar County', 'Illinois']",39.6148,-87.6903
+"['Paris', 'France']",48.8567,2.3522
+"['Paris', 'Henry County', 'Tennessee']",36.2933,-88.3065
+"['Parkersburg', 'Butler County', 'Iowa']",39.2623,-81.542
+"['Pasadena', 'Los Angeles County', 'California']",38.2969,-76.4949
+"['Pawtucket', 'Providence County', 'Rhode Island']",41.8744,-71.3743
+"['Payson', 'Utah County', 'Utah']",40.0355,-111.739
+"['Peale Museum', 'Philadelphia', 'Philadelphia County', 'Pennsylvania']",40.0077,-75.1339
+"['Pearl Street', 'New York City', 'New York County', 'New York']",40.6943,-73.9249
+"['Peck Slip', 'New York City', 'Kings County', 'New York']",40.6943,-73.9249
+"['Peekskill', 'Westchester County', 'New York']",40.6943,-73.9249
+"['Pekin', 'Tazewell County', 'Illinois']",40.5678,-89.6251
+"['Pendlebury', 'Lancashire', 'England']",53.5075,-2.3154
+"['Pennfield', 'Charlotte County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Pentonville', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Penwortham', 'Lancashire', 'England']",53.74,-2.72
+"['Peoria', 'Peoria County', 'Illinois']",40.752,-89.6154
+"['Peover', 'Cheshire', 'England']",41.5113,-72.9036
+"['Perry', 'Bannock County', 'Idaho']",32.472,-83.7283
+"['Peru', 'LaSalle County', 'Illinois']",41.3482,-89.1371
+"['Petersburg', 'Millard County', 'Utah Territory']",37.2043,-77.3913
+"['Phelps', 'Ontario County', 'New York']",40.6943,-73.9249
+"['Philadelphia', 'Philadelphia County', 'Pennsylvania']",40.0077,-75.1339
+"['Picadilly', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Pikes Peak', 'El Paso County', 'Colorado']",-22.8378,-51.9728
+"['Pimlico', 'Middlesex', 'England']",40.5744,-74.5011
+"['Pine Creek', 'Beaver County', 'Utah Territory']",-13.8231,131.833
+"['Pine Hill', 'Arizona Territory']",39.7879,-74.9857
+"['Pioneer Park', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Pittsburgh', 'Allegheny County', 'Pennsylvania']",40.4397,-79.9763
+"['Pittsford', 'Monroe County', 'New York']",40.6943,-73.9249
+"['Placer Creek', 'Colorado']",-22.8378,-51.9728
+"['Plattsburgh', 'Clinton County', 'New York']",40.6943,-73.9249
+"['Pleasant Grove', 'Utah County', 'Utah']",40.3716,-111.7412
+"['Pleasant Valley', 'Ada County', 'Idaho Territory']",41.7697,-73.8049
+"['Pleasant Valley', 'Livingston County', 'Michigan']",41.7697,-73.8049
+"['Pleasant Valley', 'Maricopa County', 'Arizona Territory']",41.7697,-73.8049
+"['Pleasant View', 'Weber County', 'Utah']",41.3249,-112.0011
+"['Pleasant View', 'Weber County', 'Utah Territory']",41.3249,-112.0011
+"['Pocatello', 'Bannock County', 'Idaho']",42.8724,-112.4647
+"['Pocatello', 'Bingham County', 'Idaho ']",42.8724,-112.4647
+"['Pocatello', 'Bingham County', 'Idaho Territory']",42.8724,-112.4647
+"['Pomfret', 'Chautauqua County', 'New York']",40.6943,-73.9249
+"['Poole Quay', 'Poole', 'Dorset', 'England']",50.7167,-1.9833
+"['Port Byron', 'Cayuga County', 'New York']",40.6943,-73.9249
+"['Port Gibson', 'Ontario County', 'New York']",40.6943,-73.9249
+"['Port Glasgow', 'Renfrewshire', 'Scotland']",55.934,-4.6906
+"['Port Said', 'Egypt']",31.2625,32.3061
+"['Port Townsend', 'Washington Territory']",48.122,-122.7877
+"['Portage', 'Columbia County', 'Wisconsin']",43.5489,-89.4658
+"['Portage', 'Livingston County', 'New York']",40.6943,-73.9249
+"['Porterville', 'Morgan County', 'Utah']",36.0643,-119.0338
+"['Porterville', 'Morgan County', 'Utah Territory']",36.0643,-119.0338
+"['Portland', 'Chautauqua County', 'New York']",40.6943,-73.9249
+"['Portland', 'Cumberland County', 'Maine']",43.6773,-70.2715
+"['Portsmouth', 'Newport County', 'Rhode Island']",41.5922,-71.2745
+"['Portsmouth', 'Rockingham County', 'New Hampshire']",43.058,-70.7826
+"['Portsmouth', 'Scioto County', 'Ohio']",38.7538,-82.9445
+"['Prescott', 'Yavapai County', 'Arizona Territory']",34.5849,-112.4473
+"['Preston', 'Lancashire', 'England']",53.759,-2.699
+"['Preston', 'Oneida County', 'Idaho']",53.759,-2.699
+"['Preston', 'Oneida County', 'Idaho Territory']",53.759,-2.699
+"['Prospect', 'Marion County', 'Ohio']",41.4993,-72.9761
+"['Providence', 'Cache County', 'Utah']",41.823,-71.4187
+"['Providence', 'Cache County', 'Utah Territory']",41.823,-71.4187
+"['Providence', 'Providence County', 'Rhode Island']",41.823,-71.4187
+"['Provo', 'Utah County', 'Utah']",40.2457,-111.6457
+"['Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Provo Bowery', 'Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Provo City Courthouse', 'Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Provo High School', 'Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Provo Meeting House', 'Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Provo Opera House', 'Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Provo Woolen Mills', 'Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Pueblo', 'Pueblo County', 'Colorado']",-22.8378,-51.9728
+"['Queensland', 'Australia']",22.4995,-81.1359
+"['Quincy', 'Adams County', 'Illinois']",39.9336,-91.3799
+"['Racine', 'Racine County', 'Wisconsin Territory']",42.7274,-87.8135
+"['Radcliffe', 'Lancashire', 'England']",53.5615,-2.3268
+"['Raleigh', 'Shelby County', 'Tennessee']",35.8324,-78.6429
+"['Rangoon', 'Burma']",16.795,96.16
+"['Ravenna', 'Portage County', 'Ohio']",41.1612,-81.2422
+"['Raysville', 'Henry County', 'Indiana']",40.622,-79.1552
+"['Reading', 'Middlesex County', 'Massachusetts']",42.5351,-71.1056
+"['Regent Street', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Reidsville', 'Rockingham County', 'North Carolina']",36.3376,-79.6725
+"['Renfrew', 'Renfrewshire', 'Scotland']",55.878,-4.389
+"['Reno', 'Washoe County', 'Nevada']",39.5497,-119.8483
+"['Rexburg', 'Bingham County', 'Idaho']",43.8226,-111.7919
+"['Rexburg', 'Bingham County', 'Idaho Territory']",43.8226,-111.7919
+"['Rexburg', 'Fremont County', 'Idaho']",43.8226,-111.7919
+"['Rexburg', 'Oneida County', 'Idaho Territory']",43.8226,-111.7919
+"['Reynoldsburg', 'Humphreys County', 'Tennessee']",39.9588,-82.7943
+"['Richfield', 'Conejos County', 'Colorado']",-22.8378,-51.9728
+"['Richibucto', 'Kent County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Richland', 'Oswego County', 'New York']",40.6943,-73.9249
+"['Richmond', 'Madison County', 'Kentucky']",37.7307,-84.2925
+"['Richmond', 'Wayne County', 'Indiana']",40.622,-79.1552
+"['Rio de Janeiro', 'Rio de Janeiro', 'Brazil']",-22.9111,-43.2056
+"['Riverdale', 'Weber County', 'Utah']",41.1732,-112.0023
+"['Riverton', 'Salt Lake County', 'Utah']",40.5176,-111.9636
+"['Rochdale', 'Lancashire', 'England']",53.6136,-2.161
+"['Rochester', 'Monroe County', 'New York']",40.6943,-73.9249
+"['Rock Ferry', 'Birkenhead', 'Cheshire', 'England']",41.5113,-72.9036
+"['Rock Island', 'Rock Island County', 'Illinois']",41.4699,-90.5827
+"['Rockaway', 'Queens County', 'New York']",40.6943,-73.9249
+"['Rockland', 'Cassia County', 'Idaho']",42.1295,-70.91
+"['Rockport', 'Summit County', 'Utah Territory']",28.029,-97.0722
+"['Rockville', 'Washington County', 'Utah']",39.0834,-77.1553
+"['Rockville', 'Washington County', 'Utah Territory']",39.0834,-77.1553
+"['Rome', 'Lazio', 'Italy']",41.8931,12.4828
+"['Rome', 'Oneida County', 'New York']",40.6943,-73.9249
+"['Rome', 'Perry County', 'Indiana']",40.622,-79.1552
+"['Rotherham', 'South Yorkshire County', 'England']",53.43,-1.357
+"['Rotherhithe', 'London', 'Surrey', 'England']",49.19,-122.8489
+"['Rouse', 'Huerfano County', 'Colorado']",-22.8378,-51.9728
+"['Roxbury', 'Boston', 'Suffolk County', 'Massachusetts']",42.3188,-71.0852
+"['Roy', 'Weber County', 'Utah Territory']",41.1714,-112.0485
+"['Royal College of Surgeons', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Royal Oak', 'Oakland County', 'Michigan']",42.5084,-83.1539
+"['Royalton', 'Niagara County', 'New York']",40.6943,-73.9249
+"['Runcorn', 'Cheshire', 'England']",41.5113,-72.9036
+"['Russell', 'Hampden County', 'Massachusetts']",45.2569,-75.3583
+"['Sackets Harbor', 'Jefferson County', 'New York']",40.6943,-73.9249
+"['Saco', 'York County', 'Maine']",43.539,-70.4624
+"['Sacramento', 'Sacramento County', 'California']",38.2969,-76.4949
+"['Sacramento River', 'California']",38.2969,-76.4949
+"['Safford', 'Graham County', 'Arizona Territory']",32.8335,-109.6964
+"['Saginaw', 'Saginaw County', 'Michigan']",43.4199,-83.9501
+"['Saint Helens', 'Lancashire', 'England']",53.45,-2.75
+"['Saint John', 'Saint John County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Saint John River', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Salamanca', 'Cattaraugus County', 'New York']",40.6943,-73.9249
+"['Salem', 'Essex County', 'Massachusetts']",42.5129,-70.9021
+"['Salem', 'Utah County', 'Utah']",40.0539,-111.6718
+"['Salem', 'Washington County', 'New York']",40.6943,-73.9249
+"['Salford', 'Lancashire', 'England']",53.483,-2.2931
+"['Salida', 'Chaffee County', 'Colorado']",-22.8378,-51.9728
+"['Salina', 'Onondaga County', 'New York']",40.6943,-73.9249
+"['Salinas', 'Monterey County', 'California']",38.2969,-76.4949
+"['Salmon Falls', 'El Dorado County', 'California']",38.2969,-76.4949
+"['Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Salt Lake City Cemetery', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Salt Lake City Temple', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Salt Lake Theater', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Samaria', 'Palestine']",31.7544,-95.6471
+"['San Antonio', 'Bexar County', 'Texas']",29.4632,-98.5238
+"['San Bernardino', 'San Bernardino County', 'California']",38.2969,-76.4949
+"['San Diego', 'San Diego County', 'California']",38.2969,-76.4949
+"['San Felipe Hotel', 'Albuquerque', 'Bernalillo County', 'New Mexico Territory']",35.1054,-106.6465
+"['San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['San Francisco Bay', 'California']",38.2969,-76.4949
+"['San Francisco Chinatown', 'San Francisco', 'San Francisco County', 'California']",38.2969,-76.4949
+"['San Francisco County', 'California']",38.2969,-76.4949
+"['San Jose', 'Santa Clara County', 'California']",38.2969,-76.4949
+"['San Luis', 'Costilla County', 'Colorado']",-22.8378,-51.9728
+"['San Luis Valley', 'Colorado']",-22.8378,-51.9728
+"['San Mateo County', 'California']",38.2969,-76.4949
+"['San Pedro', 'Los Angeles County', 'California']",38.2969,-76.4949
+"['Sandy', 'Salt Lake County', 'Utah']",40.5709,-111.8506
+"['Sanford', 'Conejos County', 'Colorado']",-22.8378,-51.9728
+"['Santa Ana', 'Orange County', 'California']",38.2969,-76.4949
+"['Santa Catalina Island', 'Los Angeles', 'Los Angeles County', 'California']",38.2969,-76.4949
+"['Santa Clara', 'Santa Clara County', 'California']",38.2969,-76.4949
+"['Santa Fe', 'Santa Fe Province', 'Argentina']",-31.6333,-60.7
+"['Santaquin', 'Juab and Utah Counties', 'Utah']",39.9708,-111.7941
+"['Santaquin', 'Juab and Utah Counties', 'Utah Territory']",39.9708,-111.7941
+"['Saratoga', 'McDonald County', 'Missouri']",37.2684,-122.0263
+"['Sausalito', 'Marin County', 'California']",38.2969,-76.4949
+"['Savannah', 'Chatham County', 'Georgia']",32.0286,-81.1821
+"['Scarborough', 'Cumberland County', 'Maine']",43.5911,-70.3682
+"['Schenectady', 'Schenectady County', 'New York']",40.6943,-73.9249
+"['Schwerte', 'Westphalia', 'Prussia']",38.8356,-76.8298
+"['Scituate', 'Rhode Island']",41.7926,-71.6203
+"['Scranton', 'Lackawanna County', 'Pennsylvania']",41.4044,-75.6649
+"['Seattle', 'King County', 'Washington Territory']",47.6211,-122.3244
+"['Selva di Giais', 'Pordenone', 'Italy']",45.95,12.65
+"['Seneca', 'Newton County', 'Missouri']",34.6818,-82.96
+"['Seneca County', 'New York']",40.6943,-73.9249
+"['Seneca Lake', 'New York']",40.6943,-73.9249
+"['Seneca River', 'New York']",40.6943,-73.9249
+"['Setauket', 'Suffolk County', 'Long Island', 'New York']",40.6943,-73.9249
+"['Sevastopol', 'Ukraine']",44.605,33.5225
+"['Shediac', 'Westmorland County', 'New Brunswick', 'British North America']",40.487,-74.445
+"['Sheffield', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Shelbyville', 'Shelby County', 'Kentucky']",38.2067,-85.2292
+"['Shoreditch', 'Middlesex', 'England']",40.5744,-74.5011
+"['Shoreditch Church', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Show Low', 'Apache County', 'Arizona Territory']",34.2671,-110.0384
+"['Show Low', 'Navajo County', 'Arizona Territory']",34.2671,-110.0384
+"['Sidney', 'Shelby County', 'Ohio']",40.2891,-84.1667
+['Sidon'],33.5606,35.3758
+"['Sierra Blanca', 'Colorado']",-22.8378,-51.9728
+"['Silver City', 'Juab County', 'Utah Territory']",32.7783,-108.2699
+"['Silverton', 'San Juan County', 'Colorado']",-22.8378,-51.9728
+"['Simonton Corners', 'Rockport', 'Knox County', 'Maine']",28.029,-97.0722
+"['Simpsonville', 'Shelby County', 'Kentucky']",34.7287,-82.2569
+"['Simsbury', 'Hartford County', 'Connecticut']",41.8729,-72.8256
+"['Sing Sing', 'Westchester County', 'New York']",40.6943,-73.9249
+['Singapore'],1.3,103.8
+"['Sioux City', 'Plymouth and Woodbury Counties', 'Iowa']",42.4959,-96.3901
+"['Sisson', 'Siskiyou County', 'California']",38.2969,-76.4949
+"['Sitka', 'District of Alaska']",57.2401,-135.3152
+"['Skowhegan', 'Somerset County', 'Maine']",44.7554,-69.6657
+"['Skållerud', 'Älvsborg', 'Sweden']",43.1791,-77.9406
+"['Smithfield', 'Cache County', 'Utah']",41.8349,-111.8265
+"['Somerville', 'Somerset County', 'New Jersey']",40.5696,-74.6092
+"['South Australia', 'Australia']",22.4995,-81.1359
+"['South Bend', 'St. Joseph County', 'Indiana']",40.622,-79.1552
+"['South Charleston', 'Clark County', 'Ohio']",38.3426,-81.7155
+"['South Jordan', 'Salt Lake County', 'Utah']",40.557,-111.9784
+"['South Jordan', 'Salt Lake County', 'Utah Territory']",40.557,-111.9784
+"['South Kensington Museum', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Southborough', 'Worcester County', 'Massachusetts']",42.3012,-71.5297
+"['Spanish Fork', 'Utah County', 'Utah']",40.1101,-111.6405
+"['Spanish Fork', 'Utah County', 'Utah Territory']",40.1101,-111.6405
+"['Spanish Fork Canyon', 'Spanish Fork', 'Utah County', 'Utah Territory']",40.1101,-111.6405
+"['Spragueville', 'Oswego County', 'New York']",40.6943,-73.9249
+"['Spring Creek', 'Sangamon County', 'Illinois']",40.745,-115.5983
+"['Spring Creek', 'Springville', 'Utah County', 'Utah Territory']",40.1638,-111.6205
+"['Spring Lake', 'Utah County', 'Utah']",35.1843,-78.9962
+"['Spring Lake', 'Utah County', 'Utah Territory']",35.1843,-78.9962
+"['Springfield', 'Chester County', 'Pennsylvania']",39.9281,-75.3362
+"['Springfield', 'Clark County', 'Ohio']",39.93,-83.7959
+"['Springfield', 'Greene County', 'Missouri']",37.1943,-93.2916
+"['Springfield', 'Hampden County', 'Massachusetts']",42.1155,-72.5395
+"['Springfield', 'Sangamon County', 'Illinois']",39.7709,-89.654
+"['Springville', 'Utah County', 'Utah']",40.1638,-111.6205
+"['Springville', 'Utah County', 'Utah Territory']",40.1638,-111.6205
+"['Springville Meeting House', 'Springville', 'Utah County', 'Utah Territory']",40.1638,-111.6205
+"['St James Park', 'Westminster', 'Middlesex', 'England']",40.5744,-74.5011
+"['St Martin-in-the-Fields', 'Westminster', 'Middlesex', 'England']",40.5744,-74.5011
+"['St. Albans', 'Hertfordshire', 'England']",38.3769,-81.8198
+"['St. Anthony', 'Fremont County', 'Idaho']",45.0278,-93.2174
+"['St. Charles', 'St. Charles County', 'Missouri']",38.7954,-90.5157
+"['St. George', 'Knox County', 'Maine']",37.0758,-113.5752
+"['St. George', 'Washington County', 'Utah']",37.0758,-113.5752
+"['St. George', 'Washington County', 'Utah Territory']",37.0758,-113.5752
+"['St. George Opera House and Social Hall', 'St. George', 'Washington County', 'Utah Territory']",37.0758,-113.5752
+"['St. George Sandstone Quarry', 'St. George', 'Washington County', 'Utah Territory']",37.0758,-113.5752
+"['St. George Tabernacle', 'St. George', 'Washington County', 'Utah Territory']",37.0758,-113.5752
+"['St. George Temple', 'St. George', 'Washington County', 'Utah']",37.0758,-113.5752
+"['St. George Temple', 'St. George', 'Washington County', 'Utah Territory']",37.0758,-113.5752
+"['St. George Temple Block', 'St. George', 'Washington County', 'Utah Territory']",37.0758,-113.5752
+"['St. John', 'Tooele County', 'Utah']",41.4429,-87.4697
+"['St. John', 'Tooele County', 'Utah Territory']",41.4429,-87.4697
+"['St. Joseph', 'Apache County', 'Arizona Territory']",39.7598,-94.821
+"['St. Joseph', 'Buchanan County', 'Missouri']",39.7598,-94.821
+"['St. Joseph', 'Navajo County', 'Arizona Territory']",39.7598,-94.821
+"['St. Joseph', 'Oneida County', 'Idaho']",39.7598,-94.821
+"['St. Louis', 'St. Louis County', 'Missouri']",38.6359,-90.2451
+"['St. Paul', 'Ramsey County', 'Minnesota']",44.9478,-93.1039
+"['St. Petersburg', 'Russia']",27.7931,-82.6652
+"['St. Thomas', 'Lincoln County', 'Nevada']",42.775,-81.1833
+"['Stafford', 'Genesee County', 'New York']",40.6943,-73.9249
+"['Stafford', 'Tolland County', 'Connecticut']",41.9876,-72.3122
+"['Staleybridge', 'Cheshire', 'England']",41.5113,-72.9036
+"['Stamford', 'Fairfield County', 'Connecticut']",41.1039,-73.5585
+"['Stanley Buildings', 'Liverpool', 'Lancashire', 'England']",53.4075,-2.9919
+"['State Line', 'Chautauqua County', 'New York']",40.6943,-73.9249
+"['Staten Island', 'Richmond County', 'New York']",40.6943,-73.9249
+"['Steuben County', 'New York']",40.6943,-73.9249
+"['Stilesville', 'Hendricks County', 'Indiana']",40.622,-79.1552
+"['Stirling', 'Stirlingshire', 'Scotland']",56.1166,-3.9369
+"['Stockholm', 'Stockholm County', 'Sweden']",43.1791,-77.9406
+"['Stockport', 'Cheshire', 'England']",41.5113,-72.9036
+"['Stone', 'Staffordshire', 'England']",52.9,-2.15
+"['Stonington', 'New London County', 'Connecticut']",41.3738,-71.9034
+"['Stony Brook', 'Suffolk County', 'Long Island', 'New York']",40.6943,-73.9249
+"['Stormville', 'Dutchess County', 'New York']",40.6943,-73.9249
+"['Stourbridge', 'Worcestershire', 'England']",52.4575,-2.1479
+"['Streetsboro', 'Portage County', 'Ohio']",41.2396,-81.3456
+"['Strongsville', 'Cuyahoga County', 'Ohio']",41.3128,-81.8313
+"['Sturbridge', 'Worcester County', 'Massachusetts']",42.1076,-72.0904
+"['Sugar House', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Sugar House Prison', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Sulphur Springs', 'Ohio County', 'Kentucky']",33.1421,-95.6122
+"['Sunset', 'Apache County', 'Arizona Territory']",25.706,-80.353
+"['Surrey Chapel', 'Southwark', 'Middlesex', 'England']",40.5744,-74.5011
+['Sweden'],43.1791,-77.9406
+"['Sweetwater Dam', 'San Diego County', 'California']",38.2969,-76.4949
+"['Sydney', 'New South Wales', 'Australia']",22.4995,-81.1359
+"['Syracuse', 'Davis County', 'Utah']",41.0859,-112.0698
+"['Syracuse', 'Onondaga County', 'New York']",40.6943,-73.9249
+"['Szczecin', 'Stettin', 'Germany']",53.4325,14.5481
+"['Tabernacle', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Tabernacle Square', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Tacoma', 'Pierce County', 'Washington Territory']",47.2431,-122.4531
+"['Taswell', 'Crawford County', 'Indiana']",40.622,-79.1552
+"['Taunton', 'Bristol County', 'Massachusetts']",41.9036,-71.0943
+"['Tauranga', 'New Zealand']",-37.6833,176.1667
+"['Taylorsville', 'Salt Lake County', 'Utah']",40.6569,-111.9493
+"['Taylorsville', 'Salt Lake County', 'Utah Territory']",40.6569,-111.9493
+"['Tehachapi', 'Kern County', 'California']",38.2969,-76.4949
+"['Telluride', 'San Miguel County', 'Colorado']",-22.8378,-51.9728
+"['Tempe', 'Maricopa County', 'Arizona Territory']",33.3881,-111.9319
+"['Temple', 'Bell County', 'Texas']",31.1068,-97.3891
+"['Temple Lot', 'Independence', 'Jackson County', 'Missouri']",39.0871,-94.3501
+"['Temple Square', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Terre Haute', 'Vigo County', 'Indiana']",40.622,-79.1552
+"['Territorial Insane Asylum', 'Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Thames Tunnel', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['The Church of St. Margaret', 'Westminster', 'Middlesex', 'England']",40.5744,-74.5011
+"['The Church of St. Paul', 'Liverpool', 'Lancashire', 'England']",53.4075,-2.9919
+"['The Church of St. Thomas', 'Liverpool', 'Lancashire', 'England']",53.4075,-2.9919
+"['The Monument', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['The White House', 'Washington', 'D.C.', 'United States']",38.9047,-77.0163
+"['Thebes', 'Egypt']",38.3208,23.3178
+"['Thomaston', 'Knox County', 'Maine']",32.8907,-84.3272
+"['Thompson', 'Sullivan County', 'New York']",40.6943,-73.9249
+"['Tintwistle', 'Cheshire', 'England']",41.5113,-72.9036
+"['Tithing Office', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Tolland', 'Tolland County', 'Connecticut']",41.8786,-72.3648
+"['Toms River', 'Ocean County', 'New Jersey']",39.9895,-74.1654
+"['Tonawanda', 'Erie County', 'New York']",40.6943,-73.9249
+"['Tooele', 'Tooele County', 'Utah']",40.5393,-112.3082
+"['Tooele', 'Tooele County', 'Utah Territory']",40.5393,-112.3082
+"['Tooele Meeting House', 'Tooele', 'Tooele County', 'Utah Territory']",40.5393,-112.3082
+"['Topeka', 'Shawnee County', 'Kansas']",39.0346,-95.6955
+"['Toronto', 'York County', 'Canada West', 'British North America']",43.7417,-79.3733
+"['Tottington', 'Lancashire', 'England']",53.613,-2.339
+"['Toulon', 'Stark County', 'Illinois']",43.1258,5.9306
+"['Tower of London', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Townsend', 'Middlesex County', 'Massachusetts']",42.6671,-71.7115
+"['Tremont Temple', 'Boston', 'Suffolk County', 'Massachusetts']",42.3188,-71.0852
+"['Trentham', 'Staffordshire', 'England']",52.9663,-2.1899
+"['Trollhätte Canal', 'Västra Götaland County', 'Sweden']",43.1791,-77.9406
+"['Trowbridge', 'Wiltshire', 'England']",51.32,-2.208
+"['Troy', 'Perry County', 'Indiana']",40.622,-79.1552
+"['Troy', 'Rensselaer County', 'New York']",40.6943,-73.9249
+"['Truckee', 'Nevada County', 'California']",38.2969,-76.4949
+"['Tuba City', 'Coconino County', 'Arizona Territory']",36.125,-111.2467
+"['Tuba City', 'Yavapai County', 'Arizona Territory']",36.125,-111.2467
+"['Tucson', 'Pima County', 'Arizona Territory']",32.1541,-110.8787
+['Tyre'],33.2708,35.1961
+"['Uniontown', 'Fayette County', 'Pennsylvania']",39.8993,-79.7246
+"['University of Utah', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Upper Soda Springs', 'Siskiyou County', 'California']",38.2969,-76.4949
+"['Urbana', 'Champaign County', 'Ohio']",40.1085,-83.7541
+"['Utah Stake Tabernacle', 'Provo', 'Utah County', 'Utah Territory']",40.2457,-111.6457
+"['Utah Territorial Statehouse', 'Fillmore', 'Millard County', 'Utah Territory']",34.3989,-118.9174
+"['Utica', 'Oneida County', 'New York']",40.6943,-73.9249
+"['Valley House', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Valparaiso', 'Porter County', 'Indiana']",40.622,-79.1552
+"['Vancouver', 'British Columbia', 'Canada']",49.25,-123.1
+"['Vandalia', 'Montgomery County', 'Ohio']",39.8791,-84.193
+"['Vastmanland County', 'Sweden']",43.1791,-77.9406
+"['Venice', 'Veneto', 'Italy']",45.4397,12.3319
+"['Vermillion', 'Sevier County', 'Utah Territory']",42.7811,-96.9256
+"['Vermillion County', 'Indiana']",40.622,-79.1552
+"['Vernal', 'Uintah County', 'Utah']",40.4517,-109.5378
+"['Vernal', 'Uintah County', 'Utah Territory']",40.4517,-109.5378
+"['Vevay', 'Switzerland County', 'Indiana']",40.622,-79.1552
+"['Vicksburg', 'Warren County', 'Mississippi']",32.3173,-90.8868
+"['Victor', 'El Paso County', 'Colorado']",-22.8378,-51.9728
+"['Victoria', 'British Columbia', 'Canada']",48.4283,-123.3647
+"['Vienna', 'Austria']",48.2083,16.3725
+"['Walker', 'Weld County', 'Colorado']",-22.8378,-51.9728
+"['Walker', 'Yavapai County', 'Arizona Territory']",42.9853,-85.7446
+"['Wallingford', 'New Haven County', 'Connecticut']",41.4589,-72.8038
+"['Walpole', 'Cheshire County', 'New Hampshire']",42.1464,-71.2555
+"['Walsenburg', 'Huerfano County', 'Colorado']",-22.8378,-51.9728
+"['Waltham', 'Middlesex County', 'Massachusetts']",42.3889,-71.2423
+"['Warsaw', 'Wyoming County', 'New York']",40.6943,-73.9249
+"['Washington', 'D.C.', 'United States']",38.9047,-77.0163
+"['Washington', 'Dutchess County', 'New York']",40.6943,-73.9249
+"['Washington', 'Washington County', 'Pennsylvania']",39.7494,-77.5579
+"['Washington', 'Washington County', 'Utah']",37.1303,-113.4878
+"['Waterbury', 'New Haven County', 'Connecticut']",41.5582,-73.0361
+"['Waterloo Mills', 'Minisink', 'Orange County', 'New York']",40.6943,-73.9249
+"['Watertown', 'Jefferson County', 'New York']",40.6943,-73.9249
+"['Waterville', 'Waterbury', 'New Haven County', 'Connecticut']",41.5582,-73.0361
+"['Watsonville', 'Santa Cruz County', 'California']",38.2969,-76.4949
+"['Weatogue', 'Simsbury', 'Hartford County', 'Connecticut']",41.8729,-72.8256
+"['Weedsport', 'Cayuga County', 'New York']",40.6943,-73.9249
+"['Wellingborough', 'Northamptonshire', 'England']",52.2939,-0.6964
+"['Wellington', 'New Zealand']",-41.2889,174.7772
+"['Wells', 'York County', 'Maine']",43.3267,-70.6336
+"['Wendell', 'Franklin County', 'Massachusetts']",35.7819,-78.3952
+"['Werther', 'Westphalia', 'Prussia']",38.8356,-76.8298
+"['West Bromwich', 'Staffordshire', 'England']",52.519,-1.995
+"['West Hartford', 'Hartford County', 'Connecticut']",41.7669,-72.7536
+"['West Jordan', 'Great Salt Lake County', 'Utah Territory']",40.6024,-112.0008
+"['West Jordan', 'Salt Lake County', 'Utah']",40.6024,-112.0008
+"['West Jordan', 'Salt Lake County', 'Utah Territory']",40.6024,-112.0008
+"['West Lafayette', 'Tippecanoe County', 'Indiana']",40.622,-79.1552
+"['West Martinsburg', 'Martinsburg', 'Lewis County', 'New York']",40.6943,-73.9249
+"['West Monroe', 'Oswego County', 'New York']",40.6943,-73.9249
+"['West Point', 'New York']",40.6943,-73.9249
+"['Westchester County', 'New York']",40.6943,-73.9249
+"['Westfield', 'Chautauqua County', 'New York']",40.6943,-73.9249
+"['Westfield', 'Hampden County', 'Massachusetts']",42.1382,-72.7561
+"['Westminster', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Westminster Abbey', 'Westminster', 'Middlesex', 'England']",40.5744,-74.5011
+"['Westminster Bridge', 'Westminster', 'Middlesex', 'England']",40.5744,-74.5011
+"['Westmoreland', 'Oneida County', 'New York']",40.6943,-73.9249
+"['Westtown', 'Orange County', 'New York']",40.6943,-73.9249
+"['Westville', 'New Haven', 'New Haven County', 'Connecticut']",41.3113,-72.9246
+"['White River', 'Indiana']",40.622,-79.1552
+"['Whitechapel', 'London', 'Middlesex', 'England']",40.5744,-74.5011
+"['Whitefield', 'Lancashire', 'England']",53.5521,-2.2992
+"['Whitewater', 'Walworth and Jefferson counties', 'Wisconsin']",42.8372,-88.7341
+"['Whitney', 'Oneida County', 'Idaho']",36.1008,-115.0379
+"['Wichita', 'Sedgwick County', 'Kansas']",37.6895,-97.3443
+"['Wigan', 'Lancashire', 'England']",53.5448,-2.6318
+"['Wilford', 'Apache County', 'Arizona Territory']",52.926,-1.16
+"['Wilford', 'Bingham County', 'Idaho']",52.926,-1.16
+"['Wilford', 'Fremont County', 'Idaho']",52.926,-1.16
+"['Wilford', 'Oneida County', 'Idaho Territory']",52.926,-1.16
+"['Willesden', 'Middlesex', 'England']",40.5744,-74.5011
+"['Williamstown', 'Decatur and Rush Counties', 'Indiana']",40.622,-79.1552
+"['Williamsville', 'Erie County', 'New York']",40.6943,-73.9249
+"['Willimantic', 'Windham County', 'Connecticut']",41.7171,-72.2114
+"['Wilmington', 'New Castle County', 'Delaware']",40.2851,-83.0741
+"['Wilson', 'Weber County', 'Utah Territory']",35.7311,-77.9284
+"['Winfield', 'Cowley County', 'Kansas']",37.274,-96.95
+"['Winnipeg', 'Manitoba', 'Canada']",49.8844,-97.1464
+"['Wolverhampton', 'Staffordshire', 'England']",52.5833,-2.1333
+"['Woodhouse Ward', 'Yorkshire', 'England']",38.7882,-77.4496
+"['Woodland', 'Summit County', 'Utah']",38.6712,-121.75
+"['Woodland', 'Summit County', 'Utah Territory']",38.6712,-121.75
+"['Woodruff Villa', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Woods Cross', 'Davis County', 'Utah']",40.8731,-111.917
+"['Woods Cross', 'Davis County', 'Utah Territory']",40.8731,-111.917
+"['Wooster', 'Wayne County', 'Ohio']",40.8172,-81.9336
+"['Wootton', 'Bedfordshire', 'England']",52.2007,-0.8857
+"['Worcester', 'Worcester County', 'Massachusetts']",42.2705,-71.8079
+"['Worthington', 'Franklin County', 'Ohio']",40.095,-83.0209
+"['Wrentham', 'Norfolk County', 'Massachusetts']",42.0513,-71.3552
+"['Xenia', 'Greene County', 'Ohio']",39.6829,-83.9413
+"['Yale College', 'New Haven', 'New Haven County', 'Connecticut']",41.3113,-72.9246
+"['Yarmouth', 'Barnstable County', 'Massachusetts']",41.6756,-70.2242
+"['Yokohama', 'Japan']",35.4442,139.6381
+"['York', 'Livingston County', 'New York']",40.6943,-73.9249
+"['York', 'York County', 'Maine']",43.186,-70.666
+"['Yorkshire', 'England']",38.7882,-77.4496
+"['Ystad', 'Skåne County', 'Sweden']",43.1791,-77.9406
+"['Yuma', 'Yuma County', 'Arizona Territory']",32.5995,-114.5491
+"['Zapata Ranch', 'Costilla County', 'Colorado']",-22.8378,-51.9728
+"['Zapato', 'Costilla County', 'Colorado']",-22.8378,-51.9728
+['Zion'],42.4603,-87.8511
+"['Zions Cooperative Mercantile Institution Building', 'Salt Lake City', 'Salt Lake County', 'Utah']",40.7776,-111.9311
+"['Örebro', 'Örebro County', 'Sweden']",43.1791,-77.9406
+"['Österhaninge', 'Stockholm County', 'Sweden']",43.1791,-77.9406
+"['Östermalm', 'Kristianstad', 'Scania County', 'Sweden']",43.1791,-77.9406

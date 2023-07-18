@@ -21,9 +21,6 @@ raw_url = f"https://raw.githubusercontent.com/{user}/{repo}/main/{latest_file['p
 # Read the latest CSV file
 df = pd.read_csv(raw_url)
 
-# docker install 
-df.to_csv('stories/location/data/artifact/testing_file1.csv', index=False)
-
 # Extract the 'name', 'latitude', and 'longitude' columns
 df = df[['Name', 'Latitude', 'Longitude']]
 
@@ -43,4 +40,23 @@ df_complete = merge_dataframes(df_no_missing, df_filled)
 df_complete.sort_values('Name', inplace=True)
 
 # Save the DataFrame to a new CSV file
-df_complete.to_csv('stories/location/data/artifact/new_file.csv', index=False)
+# df_complete.to_csv('stories/location/data/artifact/new_file.csv', index=False)
+
+# Counting how many sad faces are there after finding the location coordinates that match both the csv files
+sad_face_count = df_complete[(df_complete['Latitude'] == ":(") | (df_complete['Longitude'] == ":(")].shape[0]
+
+print(f"There are {sad_face_count} rows where 'Latitude' or 'Longitude' are ':('")
+# answer: There are 2188 rows where 'Latitude' or 'Longitude' are ':('
+
+# Now df_sad_face is a DataFrame containing only the rows where either 'Latitude' or 'Longitude' are ':('
+df_sad_face = df_complete[(df_complete['Latitude'] == ":(") | (df_complete['Longitude'] == ":(")]
+
+# Create a new CSV file 'missing_locations.csv' that contains only the rows with missing Latitude or Longitude values
+df_sad_face.to_csv('stories/location/data/artifact/missing_locations.csv', index=False)
+
+# Now df_no_sad_face is a DataFrame containing only the rows where neither 'Latitude' nor 'Longitude' are ':('
+df_no_sad_face = df_complete[(df_complete['Latitude'] != ":(") & (df_complete['Longitude'] != ":(")]
+
+# Create a new CSV file 'complete_locations.csv' that contains only the rows without missing Latitude or Longitude values
+df_no_sad_face.to_csv('stories/location/data/artifact/complete_locations.csv', index=False)
+
