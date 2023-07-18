@@ -1,4 +1,4 @@
-name: Jupyter Notebook Runner
+name: Python script and Notebook Runner
 
 on:
   push:
@@ -28,8 +28,9 @@ jobs:
 
     - name: Install Jupyter
       run: |
-        pip install jupyter
+        pip install notebook
+        pip install nbconvert
 
-    - name: Run Jupyter Notebook
+    - name: Execute Jupyter Notebook
       run: |
-        jupyter nbconvert --execute stories/location/scripts/e_location.ipynb
+        jupyter nbconvert --execute --to notebook stories/location/scripts/e_location.ipynb
